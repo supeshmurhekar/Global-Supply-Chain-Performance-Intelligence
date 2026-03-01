@@ -1,0 +1,201 @@
+Supplier_ID,Supplier_Name,Supplier_Type,Country,Lead_Time_Days,Contract_Type,Supplier_Rating
+SUP_001,Global Supplier 1,Logistics,India,12,Spot,3.7
+SUP_002,Global Supplier 2,logistics,China,5,Annual,4.18
+SUP_003,Global Supplier 3,Raw Material,UAE,13,Spot,3.78
+SUP_004,Global Supplier 4,Logistics,China,15,Quarterly,3.87
+SUP_005,Global Supplier 5,Logistics,UAE,20,Spot,
+SUP_006,Global Supplier 6,logistics,UAE,11,Spot,3.7
+SUP_007,Global Supplier 7,Raw Material,USA,14,Annual,4.03
+SUP_008,Global Supplier 8,Raw Material,UAE,7,Annual,4.57
+SUP_009,Global Supplier 9,Logistics,China,22,Annual,3.79
+SUP_010,Global Supplier 10,Packaging,UAE,17,Spot,
+SUP_011,Global Supplier 11,Logistics,USA,11,Quarterly,4.72
+SUP_012,Global Supplier 12,Logistics,USA,8,Annual,4.9
+SUP_013,Global Supplier 13,Logistics,China,17,Annual,3.29
+SUP_014,Global Supplier 14,Logistics,Germany,24,Spot,4.85
+SUP_015,Global Supplier 15,logistics,Germany,5,Annual,3.98
+SUP_016,Global Supplier 16,Raw Material,UAE,12,Quarterly,3.52
+SUP_017,Global Supplier 17,logistics,India,18,Quarterly,3.92
+SUP_018,Global Supplier 18,logistics,UAE,20,Annual,4.96
+SUP_019,Global Supplier 19,logistics,China,18,Annual,3.99
+SUP_020,Global Supplier 20,Logistics,China,16,Spot,3.66
+SUP_021,Global Supplier 21,Packaging,China,23,Quarterly,4.27
+SUP_022,Global Supplier 22,Raw Material,China,19,Quarterly,3.48
+SUP_023,Global Supplier 23,Packaging,China,6,Annual,3.15
+SUP_024,Global Supplier 24,logistics,USA,6,Spot,3.26
+SUP_025,Global Supplier 25,logistics,Germany,23,Quarterly,3.26
+SUP_026,Global Supplier 26,Packaging,China,21,Quarterly,3.3
+SUP_027,Global Supplier 27,Packaging,India,24,Spot,3.28
+SUP_028,Global Supplier 28,Packaging,India,14,Spot,4.28
+SUP_029,Global Supplier 29,logistics,India,10,Quarterly,3.36
+SUP_030,Global Supplier 30,logistics,India,19,Quarterly,3.69
+SUP_031,Global Supplier 31,Raw Material,USA,15,Spot,4.79
+SUP_032,Global Supplier 32,Raw Material,India,9,Quarterly,3.95
+SUP_033,Global Supplier 33,logistics,China,5,Annual,4.34
+SUP_034,Global Supplier 34,Packaging,UAE,12,Annual,3.34
+SUP_035,Global Supplier 35,Packaging,India,16,Spot,3.38
+SUP_036,Global Supplier 36,Raw Material,USA,16,Spot,3.08
+SUP_037,Global Supplier 37,logistics,USA,9,Spot,3.34
+SUP_038,Global Supplier 38,Raw Material,India,11,Annual,3.56
+SUP_039,Global Supplier 39,Raw Material,UAE,8,Quarterly,3.35
+SUP_040,Global Supplier 40,Logistics,India,10,Annual,3.18
+SUP_041,Global Supplier 41,Logistics,USA,17,Quarterly,3.24
+SUP_042,Global Supplier 42,Logistics,Germany,24,Annual,3.92
+SUP_043,Global Supplier 43,Packaging,China,19,Quarterly,3.41
+SUP_044,Global Supplier 44,logistics,USA,7,Annual,3.73
+SUP_045,Global Supplier 45,logistics,India,12,Spot,4.01
+SUP_046,Global Supplier 46,logistics,China,24,Annual,4.38
+SUP_047,Global Supplier 47,logistics,India,20,Quarterly,3.08
+SUP_048,Global Supplier 48,Logistics,India,17,Annual,4.6
+SUP_049,Global Supplier 49,Packaging,Germany,22,Annual,4.26
+SUP_050,Global Supplier 50,Packaging,China,14,Annual,3.16
+SUP_051,Global Supplier 51,Logistics,China,23,Spot,4.75
+SUP_052,Global Supplier 52,Packaging,Germany,21,Annual,4.84
+SUP_053,Global Supplier 53,Logistics,USA,23,Spot,3.12
+SUP_054,Global Supplier 54,logistics,India,9,Spot,3.55
+SUP_055,Global Supplier 55,Logistics,UAE,13,Annual,4.61
+SUP_056,Global Supplier 56,logistics,India,16,Annual,4.5
+SUP_057,Global Supplier 57,logistics,India,5,Annual,3.37
+SUP_058,Global Supplier 58,Raw Material,USA,5,Quarterly,3.42
+SUP_059,Global Supplier 59,Logistics,India,19,Annual,3.74
+SUP_060,Global Supplier 60,Raw Material,Germany,6,Spot,3.97
+SUP_061,Global Supplier 61,Logistics,Germany,20,Annual,4.24
+SUP_062,Global Supplier 62,Logistics,China,12,Quarterly,3.74
+SUP_063,Global Supplier 63,Raw Material,UAE,17,Annual,3.93
+SUP_064,Global Supplier 64,Raw Material,India,5,Quarterly,4.49
+SUP_065,Global Supplier 65,Logistics,India,20,Quarterly,3.07
+SUP_066,Global Supplier 66,Packaging,USA,11,Annual,
+SUP_067,Global Supplier 67,logistics,Germany,9,Spot,4.43
+SUP_068,Global Supplier 68,Raw Material,UAE,7,Quarterly,4.79
+SUP_069,Global Supplier 69,logistics,China,16,Annual,4.02
+SUP_070,Global Supplier 70,Packaging,Germany,20,Annual,4.06
+SUP_071,Global Supplier 71,Packaging,China,23,Spot,3.21
+SUP_072,Global Supplier 72,Packaging,USA,9,Quarterly,3.89
+SUP_073,Global Supplier 73,Raw Material,USA,18,Quarterly,4.07
+SUP_074,Global Supplier 74,Packaging,India,9,Annual,3.48
+SUP_075,Global Supplier 75,Raw Material,UAE,19,Annual,3.54
+SUP_076,Global Supplier 76,Packaging,China,21,Spot,3.75
+SUP_077,Global Supplier 77,logistics,Germany,18,Spot,3.04
+SUP_078,Global Supplier 78,logistics,USA,24,Quarterly,3.64
+SUP_079,Global Supplier 79,Logistics,India,9,Quarterly,3.42
+SUP_080,Global Supplier 80,logistics,India,16,Annual,3.65
+SUP_081,Global Supplier 81,Logistics,China,20,Quarterly,3.24
+SUP_082,Global Supplier 82,logistics,USA,20,Spot,4.78
+SUP_083,Global Supplier 83,Raw Material,UAE,11,Spot,4.19
+SUP_084,Global Supplier 84,logistics,USA,8,Annual,4.36
+SUP_085,Global Supplier 85,Logistics,China,5,Spot,4.58
+SUP_086,Global Supplier 86,Logistics,China,9,Spot,
+SUP_087,Global Supplier 87,Packaging,USA,14,Spot,3.17
+SUP_088,Global Supplier 88,Raw Material,China,9,Spot,4.07
+SUP_089,Global Supplier 89,logistics,USA,8,Annual,4.17
+SUP_090,Global Supplier 90,Packaging,Germany,6,Annual,4.49
+SUP_091,Global Supplier 91,logistics,USA,24,Quarterly,3.86
+SUP_092,Global Supplier 92,logistics,USA,14,Spot,3.26
+SUP_093,Global Supplier 93,Packaging,China,23,Quarterly,3.57
+SUP_094,Global Supplier 94,Packaging,China,5,Annual,3.73
+SUP_095,Global Supplier 95,Packaging,India,9,Annual,4.29
+SUP_096,Global Supplier 96,Packaging,India,17,Annual,4.14
+SUP_097,Global Supplier 97,Packaging,Germany,8,Annual,3.71
+SUP_098,Global Supplier 98,logistics,India,20,Annual,4.97
+SUP_099,Global Supplier 99,Packaging,USA,20,Annual,4.21
+SUP_100,Global Supplier 100,Raw Material,China,6,Annual,3.47
+SUP_101,Global Supplier 101,Logistics,India,21,Spot,3.2
+SUP_102,Global Supplier 102,Packaging,India,24,Quarterly,3.31
+SUP_103,Global Supplier 103,Packaging,Germany,16,Annual,3.49
+SUP_104,Global Supplier 104,logistics,Germany,22,Spot,3.32
+SUP_105,Global Supplier 105,Packaging,USA,7,Spot,3.37
+SUP_106,Global Supplier 106,Packaging,China,5,Quarterly,3.57
+SUP_107,Global Supplier 107,Packaging,Germany,5,Annual,3.35
+SUP_108,Global Supplier 108,logistics,India,23,Quarterly,4.79
+SUP_109,Global Supplier 109,Packaging,China,15,Annual,3.16
+SUP_110,Global Supplier 110,Logistics,China,9,Spot,4.05
+SUP_111,Global Supplier 111,logistics,India,16,Spot,3.82
+SUP_112,Global Supplier 112,Logistics,Germany,7,Spot,4.96
+SUP_113,Global Supplier 113,logistics,India,5,Spot,3.22
+SUP_114,Global Supplier 114,Packaging,China,5,Quarterly,3.8
+SUP_115,Global Supplier 115,Logistics,UAE,12,Annual,4.94
+SUP_116,Global Supplier 116,logistics,UAE,14,Annual,4.73
+SUP_117,Global Supplier 117,Raw Material,USA,15,Quarterly,4.63
+SUP_118,Global Supplier 118,Packaging,India,16,Annual,3.52
+SUP_119,Global Supplier 119,logistics,India,17,Spot,3.34
+SUP_120,Global Supplier 120,Raw Material,USA,16,Annual,4.34
+SUP_121,Global Supplier 121,logistics,USA,18,Spot,4.86
+SUP_122,Global Supplier 122,Raw Material,USA,6,Quarterly,4.11
+SUP_123,Global Supplier 123,Packaging,China,23,Annual,4.14
+SUP_124,Global Supplier 124,Logistics,India,22,Quarterly,3.56
+SUP_125,Global Supplier 125,Raw Material,China,7,Annual,4.54
+SUP_126,Global Supplier 126,logistics,USA,21,Spot,3.37
+SUP_127,Global Supplier 127,Packaging,India,12,Quarterly,3.65
+SUP_128,Global Supplier 128,Raw Material,China,14,Annual,3.85
+SUP_129,Global Supplier 129,logistics,China,6,Spot,4.02
+SUP_130,Global Supplier 130,logistics,USA,23,Quarterly,3.48
+SUP_131,Global Supplier 131,logistics,India,13,Quarterly,3.23
+SUP_132,Global Supplier 132,Raw Material,USA,11,Annual,4.22
+SUP_133,Global Supplier 133,Raw Material,India,8,Annual,3.58
+SUP_134,Global Supplier 134,Raw Material,UAE,22,Annual,4.16
+SUP_135,Global Supplier 135,Logistics,Germany,17,Spot,3.31
+SUP_136,Global Supplier 136,Raw Material,Germany,15,Annual,3.96
+SUP_137,Global Supplier 137,Raw Material,Germany,8,Quarterly,4.07
+SUP_138,Global Supplier 138,Raw Material,USA,8,Quarterly,3.1
+SUP_139,Global Supplier 139,Logistics,UAE,14,Annual,3.67
+SUP_140,Global Supplier 140,Raw Material,India,9,Annual,3.27
+SUP_141,Global Supplier 141,logistics,China,13,Quarterly,3.13
+SUP_142,Global Supplier 142,Raw Material,India,7,Spot,4.98
+SUP_143,Global Supplier 143,logistics,China,21,Annual,3.64
+SUP_144,Global Supplier 144,logistics,India,7,Annual,4.62
+SUP_145,Global Supplier 145,logistics,UAE,20,Quarterly,3.51
+SUP_146,Global Supplier 146,Logistics,China,8,Annual,4.36
+SUP_147,Global Supplier 147,Logistics,USA,22,Spot,4.52
+SUP_148,Global Supplier 148,Logistics,India,21,Quarterly,4.19
+SUP_149,Global Supplier 149,Raw Material,India,11,Annual,3.94
+SUP_150,Global Supplier 150,logistics,China,9,Quarterly,3.82
+SUP_151,Global Supplier 151,Logistics,USA,16,Annual,3.7
+SUP_152,Global Supplier 152,Logistics,USA,21,Annual,4.86
+SUP_153,Global Supplier 153,Raw Material,UAE,17,Annual,4.66
+SUP_154,Global Supplier 154,Logistics,USA,7,Spot,4.93
+SUP_155,Global Supplier 155,Raw Material,USA,13,Spot,3.25
+SUP_156,Global Supplier 156,Packaging,USA,21,Quarterly,4.46
+SUP_157,Global Supplier 157,Logistics,Germany,21,Annual,4.88
+SUP_158,Global Supplier 158,Packaging,UAE,24,Annual,3.36
+SUP_159,Global Supplier 159,Raw Material,India,20,Spot,3.13
+SUP_160,Global Supplier 160,logistics,China,17,Annual,4.48
+SUP_161,Global Supplier 161,Logistics,India,23,Spot,4.15
+SUP_162,Global Supplier 162,Raw Material,UAE,21,Annual,4.68
+SUP_163,Global Supplier 163,logistics,China,8,Quarterly,3.28
+SUP_164,Global Supplier 164,logistics,UAE,16,Annual,4.59
+SUP_165,Global Supplier 165,Packaging,USA,13,Annual,3.4
+SUP_166,Global Supplier 166,Raw Material,China,23,Spot,3.33
+SUP_167,Global Supplier 167,logistics,USA,16,Annual,3.33
+SUP_168,Global Supplier 168,Logistics,India,13,Annual,4.63
+SUP_169,Global Supplier 169,Logistics,India,11,Spot,4.33
+SUP_170,Global Supplier 170,Packaging,China,18,Quarterly,4.05
+SUP_171,Global Supplier 171,logistics,China,24,Quarterly,3.72
+SUP_172,Global Supplier 172,Raw Material,UAE,23,Spot,4.75
+SUP_173,Global Supplier 173,Logistics,UAE,19,Spot,3.78
+SUP_174,Global Supplier 174,logistics,USA,20,Spot,4.63
+SUP_175,Global Supplier 175,logistics,China,9,Spot,3.88
+SUP_176,Global Supplier 176,Packaging,India,7,Spot,3.75
+SUP_177,Global Supplier 177,Logistics,UAE,16,Quarterly,3.93
+SUP_178,Global Supplier 178,Logistics,UAE,24,Quarterly,3.6
+SUP_179,Global Supplier 179,Raw Material,India,8,Spot,4.5
+SUP_180,Global Supplier 180,Logistics,UAE,20,Annual,4.01
+SUP_181,Global Supplier 181,Raw Material,USA,11,Spot,3.46
+SUP_182,Global Supplier 182,Logistics,China,17,Annual,4.8
+SUP_183,Global Supplier 183,Packaging,India,14,Spot,3.77
+SUP_184,Global Supplier 184,Logistics,China,11,Spot,4.09
+SUP_185,Global Supplier 185,Raw Material,UAE,18,Quarterly,4.81
+SUP_186,Global Supplier 186,Raw Material,UAE,9,Annual,4.25
+SUP_187,Global Supplier 187,Packaging,India,7,Annual,3.23
+SUP_188,Global Supplier 188,Logistics,USA,15,Quarterly,4.88
+SUP_189,Global Supplier 189,Logistics,Germany,15,Quarterly,4.26
+SUP_190,Global Supplier 190,Packaging,India,22,Quarterly,3.67
+SUP_191,Global Supplier 191,Logistics,Germany,19,Quarterly,3.28
+SUP_192,Global Supplier 192,Logistics,Germany,16,Annual,4.59
+SUP_193,Global Supplier 193,Raw Material,USA,13,Annual,4.24
+SUP_194,Global Supplier 194,Logistics,Germany,14,Spot,4.07
+SUP_195,Global Supplier 195,Logistics,Germany,16,Spot,4.79
+SUP_196,Global Supplier 196,Packaging,USA,21,Quarterly,
+SUP_197,Global Supplier 197,Packaging,Germany,10,Quarterly,3.3
+SUP_198,Global Supplier 198,logistics,Germany,11,Quarterly,3.62
+SUP_199,Global Supplier 199,Raw Material,Germany,18,Spot,3.5
+SUP_200,Global Supplier 200,Logistics,India,17,Spot,4.49

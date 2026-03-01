@@ -1,0 +1,301 @@
+Product_ID,SKU_Code,Product_Name,Category,Sub_Category,Unit_Cost,Selling_Price,Weight_kg,Volume_m3,Shelf_Life_Days,Reorder_Level,Product_Status
+PROD_0001,SKU-1001,Business Laptop Model-375,electronics,Premium,184,244.57,4.63,0.142,139,143,Active
+PROD_0002,SKU-1002,Smart Barcode Scanner Model-874,electronics,Premium,463,666.49,14.29,0.17,357,314,Active
+PROD_0003,SKU-1003,Safety Helmet Model-586,electronics,Premium,401,622.92,12.43,0.025,107,357,Active
+PROD_0004,SKU-1004,Electric Actuator Model-793,electronics,Premium,314,480.47,3.89,0.154,178,185,Active
+PROD_0005,SKU-1005,Warehouse Rack Model-143,Pharma,Premium,463,609.98,24.72,0.093,165,404,Active
+PROD_0006,SKU-1006,Conveyor Motor Model-926,Electronics,Premium,213,334.15,10.31,0.085,256,241,Active
+PROD_0007,SKU-1007,Safety Helmet Model-112,electronics,Economy,284,446.17,13.54,0.09,302,176,Active
+PROD_0008,SKU-1008,LED Panel Light Model-876,Electronics,Premium,340,494.96,14.5,0.029,236,374,Active
+PROD_0009,SKU-1009,Smart Barcode Scanner Model-492,Pharma,Economy,499,695.51,15.62,0.017,231,306,Active
+PROD_0010,SKU-1010,LED Panel Light Model-810,Pharma,Premium,366,535.47,10.5,0.177,211,125,Active
+PROD_0011,SKU-1011,Business Laptop Model-120,FMCG,Standard,187,292.46,8.46,0.17,140,216,Active
+PROD_0012,SKU-1012,LED Panel Light Model-553,FMCG,Standard,203,322.97,18.49,0.125,135,196,Active
+PROD_0013,SKU-1013,Business Laptop Model-516,Pharma,Economy,158,248.01,21.81,0.166,353,181,Active
+PROD_0014,SKU-1014,Hydraulic Pump Model-513,Automotive,Economy,209,313.16,22.1,0.016,188,202,Active
+PROD_0015,SKU-1015,Industrial Router Model-151,FMCG,Economy,177,223.3,5.78,0.08,327,358,Active
+PROD_0016,SKU-1016,Packaging Tape Roll Model-797,Electronics,Premium,375,589.9,9.94,0.123,180,342,Active
+PROD_0017,SKU-1017,Electric Actuator Model-267,FMCG,Economy,332,455.64,20.94,0.027,104,297,Active
+PROD_0018,SKU-1018,Industrial Router Model-898,Automotive,Premium,133,206.0,16.54,0.139,227,433,Active
+PROD_0019,SKU-1019,Packaging Tape Roll Model-899,Electronics,Standard,312,392.19,22.88,0.133,94,214,Active
+PROD_0020,SKU-1020,Conveyor Motor Model-412,FMCG,Standard,361,552.97,22.49,0.172,325,229,Active
+PROD_0021,SKU-1021,Warehouse Rack Model-633,electronics,Standard,288,390.46,15.03,0.011,281,387,Active
+PROD_0022,SKU-1022,Electric Actuator Model-800,Electronics,Standard,361,486.97,2.53,0.198,256,241,Active
+PROD_0023,SKU-1023,Conveyor Motor Model-767,FMCG,Premium,385,577.07,4.6,0.155,119,407,Active
+PROD_0024,SKU-1024,Packaging Tape Roll Model-243,Electronics,Economy,388,528.4,12.94,0.066,304,307,Active
+PROD_0025,SKU-1025,Packaging Tape Roll Model-825,electronics,Premium,427,539.03,9.24,0.146,363,426,Active
+PROD_0026,SKU-1026,Business Laptop Model-407,Automotive,Economy,393,540.56,22.04,0.044,139,341,Active
+PROD_0027,SKU-1027,LED Panel Light Model-927,electronics,Premium,429,575.09,23.73,0.181,135,213,Active
+PROD_0028,SKU-1028,Smart Barcode Scanner Model-414,Pharma,Standard,164,247.72,9.92,0.121,327,160,Active
+PROD_0029,SKU-1029,Business Laptop Model-697,electronics,Economy,77,119.6,2.71,0.179,346,161,Active
+PROD_0030,SKU-1030,Packaging Tape Roll Model-155,Automotive,Premium,321,434.77,24.82,0.075,324,173,Active
+PROD_0031,SKU-1031,Smart Barcode Scanner Model-897,Electronics,Standard,491,736.74,8.98,0.197,250,424,Active
+PROD_0032,SKU-1032,Industrial Router Model-314,Automotive,Economy,52,73.23,19.35,0.103,135,166,Active
+PROD_0033,SKU-1033,Electric Actuator Model-513,Pharma,Standard,272,400.31,10.2,0.017,192,474,Active
+PROD_0034,SKU-1034,Smart Barcode Scanner Model-875,electronics,Premium,57,89.05,1.43,0.011,217,215,Active
+PROD_0035,SKU-1035,Smart Barcode Scanner Model-492,electronics,Economy,209,270.68,8.35,0.022,113,252,Active
+PROD_0036,SKU-1036,Conveyor Motor Model-710,electronics,Standard,283,425.84,11.41,0.14,158,275,Active
+PROD_0037,SKU-1037,Business Laptop Model-268,Pharma,Premium,233,352.42,6.48,0.148,157,208,Active
+PROD_0038,SKU-1038,Industrial Router Model-226,FMCG,Economy,351,500.74,16.61,0.017,220,494,Active
+PROD_0039,SKU-1039,Safety Helmet Model-149,Electronics,Economy,369,467.53,21.07,0.019,149,313,Active
+PROD_0040,SKU-1040,Business Laptop Model-358,Pharma,Economy,244,315.56,4.68,0.142,94,254,Active
+PROD_0041,SKU-1041,Packaging Tape Roll Model-632,FMCG,Economy,388,498.71,15.54,0.036,143,361,Active
+PROD_0042,SKU-1042,Electric Actuator Model-903,Electronics,Standard,110,148.38,5.77,0.048,224,367,Active
+PROD_0043,SKU-1043,Warehouse Rack Model-402,Automotive,Premium,233,348.62,14.16,0.183,336,269,Active
+PROD_0044,SKU-1044,Warehouse Rack Model-191,Electronics,Economy,51,63.98,17.06,0.038,136,499,Active
+PROD_0045,SKU-1045,Safety Helmet Model-203,FMCG,Economy,88,132.29,6.55,0.198,241,235,Active
+PROD_0046,SKU-1046,Business Laptop Model-278,Electronics,Standard,75,96.37,9.65,0.139,308,478,Active
+PROD_0047,SKU-1047,Hydraulic Pump Model-146,Electronics,Premium,98,151.7,16.92,0.042,273,324,Active
+PROD_0048,SKU-1048,Electric Actuator Model-195,FMCG,Standard,187,291.25,5.39,0.086,323,239,Active
+PROD_0049,SKU-1049,Packaging Tape Roll Model-919,Pharma,Economy,403,623.74,22.27,0.042,157,456,Active
+PROD_0050,SKU-1050,Industrial Router Model-526,electronics,Standard,482,629.39,20.25,0.139,182,412,Active
+PROD_0051,SKU-1051,Packaging Tape Roll Model-129,Automotive,Standard,448,616.23,23.09,0.031,300,325,Active
+PROD_0052,SKU-1052,Industrial Router Model-421,Electronics,Economy,82,110.01,21.84,0.11,204,442,Active
+PROD_0053,SKU-1053,Smart Barcode Scanner Model-817,electronics,Premium,315,451.42,11.39,0.148,336,277,Active
+PROD_0054,SKU-1054,Packaging Tape Roll Model-671,electronics,Premium,126,194.5,1.28,0.188,348,340,Active
+PROD_0055,SKU-1055,Business Laptop Model-869,Pharma,Standard,495,647.41,6.78,0.194,115,359,Active
+PROD_0056,SKU-1056,Warehouse Rack Model-512,Automotive,Premium,331,488.28,12.02,0.162,319,145,Active
+PROD_0057,SKU-1057,Business Laptop Model-609,Electronics,Premium,278,378.25,10.68,0.017,90,146,Active
+PROD_0058,SKU-1058,Electric Actuator Model-620,electronics,Premium,366,539.17,16.71,0.097,264,286,Active
+PROD_0059,SKU-1059,Industrial Router Model-565,FMCG,Economy,468,621.51,19.42,0.124,276,466,Active
+PROD_0060,SKU-1060,Business Laptop Model-774,Automotive,Premium,108,138.68,9.19,0.168,239,380,Active
+PROD_0061,SKU-1061,Safety Helmet Model-146,Automotive,Standard,241,360.47,4.37,0.146,299,154,Active
+PROD_0062,SKU-1062,Conveyor Motor Model-223,Pharma,Premium,362,477.32,11.97,0.158,263,155,Active
+PROD_0063,SKU-1063,Packaging Tape Roll Model-957,electronics,Premium,73,114.93,19.53,0.096,348,168,Active
+PROD_0064,SKU-1064,Business Laptop Model-149,electronics,Standard,52,74.65,21.13,0.102,350,499,Active
+PROD_0065,SKU-1065,LED Panel Light Model-848,Automotive,Premium,404,586.81,10.3,0.124,254,358,Active
+PROD_0066,SKU-1066,Packaging Tape Roll Model-809,Automotive,Standard,264,420.51,10.55,0.075,240,331,Active
+PROD_0067,SKU-1067,LED Panel Light Model-816,electronics,Standard,120,167.34,21.23,0.114,250,464,Active
+PROD_0068,SKU-1068,Safety Helmet Model-314,electronics,Economy,373,494.62,7.97,0.076,157,463,Active
+PROD_0069,SKU-1069,LED Panel Light Model-752,FMCG,Economy,307,442.04,3.77,0.077,335,398,Active
+PROD_0070,SKU-1070,Electric Actuator Model-790,electronics,Standard,391,585.93,22.06,0.09,96,367,Active
+PROD_0071,SKU-1071,Hydraulic Pump Model-154,Electronics,Premium,62,85.76,7.41,0.159,236,449,Active
+PROD_0072,SKU-1072,Conveyor Motor Model-807,FMCG,Premium,124,191.43,19.09,0.016,321,152,Active
+PROD_0073,SKU-1073,Electric Actuator Model-675,Automotive,Economy,494,734.3,16.53,0.084,351,456,Active
+PROD_0074,SKU-1074,Conveyor Motor Model-490,Pharma,Standard,404,598.96,23.96,0.195,250,382,Active
+PROD_0075,SKU-1075,Industrial Router Model-307,electronics,Standard,56,84.58,20.92,0.183,278,486,Active
+PROD_0076,SKU-1076,Electric Actuator Model-301,Automotive,Standard,329,496.28,11.77,0.197,128,195,Active
+PROD_0077,SKU-1077,LED Panel Light Model-486,Electronics,Standard,426,609.11,7.7,0.06,172,399,Active
+PROD_0078,SKU-1078,Conveyor Motor Model-826,Automotive,Premium,52,71.02,4.69,0.071,116,496,Active
+PROD_0079,SKU-1079,Electric Actuator Model-602,electronics,Economy,481,712.68,9.59,0.159,252,369,Active
+PROD_0080,SKU-1080,Warehouse Rack Model-905,electronics,Premium,144,206.24,10.98,0.112,137,278,Active
+PROD_0081,SKU-1081,Warehouse Rack Model-439,FMCG,Standard,159,235.66,6.24,0.153,361,343,Active
+PROD_0082,SKU-1082,Safety Helmet Model-764,Electronics,Premium,471,712.74,17.05,0.095,214,120,Active
+PROD_0083,SKU-1083,Smart Barcode Scanner Model-216,Pharma,Standard,245,384.79,13.97,0.064,354,494,Active
+PROD_0084,SKU-1084,Smart Barcode Scanner Model-556,Pharma,Premium,313,479.2,8.11,0.134,254,363,Active
+PROD_0085,SKU-1085,Hydraulic Pump Model-891,electronics,Economy,99,129.55,1.18,0.022,199,450,Active
+PROD_0086,SKU-1086,Packaging Tape Roll Model-650,Pharma,Economy,477,613.6,20.6,0.024,168,112,Active
+PROD_0087,SKU-1087,Business Laptop Model-189,Electronics,Premium,417,569.66,5.27,0.058,126,394,Active
+PROD_0088,SKU-1088,Warehouse Rack Model-561,Pharma,Standard,182,253.47,8.59,0.084,150,373,Active
+PROD_0089,SKU-1089,Industrial Router Model-164,electronics,Premium,378,567.79,17.82,0.024,347,154,Active
+PROD_0090,SKU-1090,Conveyor Motor Model-721,Electronics,Standard,452,673.51,19.37,0.093,292,438,Active
+PROD_0091,SKU-1091,Industrial Router Model-325,Automotive,Economy,292,380.98,10.38,0.162,241,424,Active
+PROD_0092,SKU-1092,LED Panel Light Model-914,FMCG,Premium,202,300.38,14.28,0.115,153,121,Active
+PROD_0093,SKU-1093,Industrial Router Model-650,electronics,Premium,343,500.38,8.31,0.152,266,208,Active
+PROD_0094,SKU-1094,Packaging Tape Roll Model-245,Automotive,Premium,380,588.24,6.3,0.169,189,158,Active
+PROD_0095,SKU-1095,LED Panel Light Model-972,Electronics,Economy,393,601.24,12.07,0.114,238,443,Active
+PROD_0096,SKU-1096,Hydraulic Pump Model-843,electronics,Standard,178,228.62,23.84,0.078,210,151,Active
+PROD_0097,SKU-1097,Conveyor Motor Model-298,FMCG,Standard,367,467.72,11.82,0.127,246,455,Active
+PROD_0098,SKU-1098,Electric Actuator Model-473,FMCG,Standard,128,185.34,5.05,0.07,203,464,Active
+PROD_0099,SKU-1099,Packaging Tape Roll Model-237,FMCG,Standard,191,294.91,12.11,0.078,246,349,Active
+PROD_0100,SKU-1100,Safety Helmet Model-721,Electronics,Standard,105,137.71,21.61,0.037,365,200,Active
+PROD_0101,SKU-1101,Conveyor Motor Model-178,Electronics,Premium,425,663.09,21.39,0.13,297,493,Active
+PROD_0102,SKU-1102,Electric Actuator Model-664,FMCG,Economy,158,247.62,22.46,0.113,166,287,Active
+PROD_0103,SKU-1103,Packaging Tape Roll Model-703,FMCG,Premium,164,256.17,12.15,0.107,293,286,Active
+PROD_0104,SKU-1104,Safety Helmet Model-968,electronics,Economy,55,81.51,4.98,0.108,318,181,Active
+PROD_0105,SKU-1105,LED Panel Light Model-775,Automotive,Economy,339,536.31,18.57,0.188,110,212,Active
+PROD_0106,SKU-1106,Business Laptop Model-478,Automotive,Premium,168,213.7,17.05,0.108,274,298,Active
+PROD_0107,SKU-1107,Business Laptop Model-140,FMCG,Premium,282,439.51,17.89,0.109,230,479,Active
+PROD_0108,SKU-1108,Conveyor Motor Model-278,Pharma,Economy,346,498.42,10.08,0.122,129,364,Active
+PROD_0109,SKU-1109,Conveyor Motor Model-328,electronics,Standard,242,384.89,9.47,0.175,339,346,Active
+PROD_0110,SKU-1110,Electric Actuator Model-242,Pharma,Premium,53,75.56,6.52,0.108,233,208,Active
+PROD_0111,SKU-1111,LED Panel Light Model-716,Electronics,Economy,145,189.24,6.53,0.164,148,346,Active
+PROD_0112,SKU-1112,Business Laptop Model-265,Pharma,Premium,295,390.51,6.85,0.034,172,168,Active
+PROD_0113,SKU-1113,Safety Helmet Model-250,Electronics,Premium,70,109.32,7.2,0.044,297,406,Active
+PROD_0114,SKU-1114,Electric Actuator Model-836,FMCG,Premium,376,472.45,6.2,0.125,331,346,Active
+PROD_0115,SKU-1115,LED Panel Light Model-715,Automotive,Economy,162,249.58,20.69,0.045,351,235,Active
+PROD_0116,SKU-1116,LED Panel Light Model-564,electronics,Economy,420,625.78,2.65,0.082,157,155,Active
+PROD_0117,SKU-1117,Industrial Router Model-616,Pharma,Premium,153,219.24,15.53,0.044,109,372,Active
+PROD_0118,SKU-1118,Safety Helmet Model-593,Automotive,Economy,435,561.64,13.94,0.01,310,367,Active
+PROD_0119,SKU-1119,Packaging Tape Roll Model-814,electronics,Standard,239,371.93,6.51,0.162,285,279,Active
+PROD_0120,SKU-1120,Electric Actuator Model-879,electronics,Premium,461,695.87,11.21,0.058,209,142,Active
+PROD_0121,SKU-1121,Conveyor Motor Model-518,FMCG,Premium,356,554.25,1.13,0.151,93,395,Active
+PROD_0122,SKU-1122,Safety Helmet Model-484,Automotive,Economy,110,157.51,20.3,0.088,144,179,Active
+PROD_0123,SKU-1123,Packaging Tape Roll Model-367,electronics,Standard,383,557.22,14.55,0.126,293,486,Active
+PROD_0124,SKU-1124,Warehouse Rack Model-670,Pharma,Premium,261,376.68,9.89,0.115,219,257,Active
+PROD_0125,SKU-1125,Electric Actuator Model-507,Automotive,Economy,226,343.74,3.86,0.054,172,151,Active
+PROD_0126,SKU-1126,Warehouse Rack Model-446,electronics,Economy,310,430.96,17.73,0.144,172,299,Active
+PROD_0127,SKU-1127,Industrial Router Model-248,Pharma,Economy,461,590.95,11.45,0.022,203,289,Active
+PROD_0128,SKU-1128,Hydraulic Pump Model-493,Pharma,Economy,361,456.02,16.75,0.064,119,496,Active
+PROD_0129,SKU-1129,LED Panel Light Model-110,Automotive,Economy,377,536.48,23.34,0.108,189,117,Active
+PROD_0130,SKU-1130,Electric Actuator Model-337,electronics,Premium,311,444.9,17.18,0.078,90,180,Active
+PROD_0131,SKU-1131,Hydraulic Pump Model-461,Pharma,Standard,191,290.87,15.07,0.108,125,146,Active
+PROD_0132,SKU-1132,Safety Helmet Model-672,electronics,Standard,195,293.31,9.34,0.165,205,410,Active
+PROD_0133,SKU-1133,Warehouse Rack Model-688,Electronics,Standard,282,444.26,5.2,0.106,127,357,Active
+PROD_0134,SKU-1134,Conveyor Motor Model-922,electronics,Standard,224,354.25,22.03,0.164,218,455,Active
+PROD_0135,SKU-1135,Business Laptop Model-888,Automotive,Standard,243,351.65,24.07,0.097,325,400,Active
+PROD_0136,SKU-1136,Industrial Router Model-169,Pharma,Economy,296,382.05,19.93,0.052,207,261,Active
+PROD_0137,SKU-1137,Packaging Tape Roll Model-109,FMCG,Premium,230,329.08,7.89,0.086,265,138,Active
+PROD_0138,SKU-1138,Safety Helmet Model-462,Automotive,Economy,141,199.77,7.46,0.19,187,355,Active
+PROD_0139,SKU-1139,Warehouse Rack Model-993,FMCG,Premium,170,256.26,6.5,0.169,272,179,Active
+PROD_0140,SKU-1140,Hydraulic Pump Model-792,Pharma,Economy,111,174.5,1.16,0.173,111,346,Active
+PROD_0141,SKU-1141,Smart Barcode Scanner Model-688,FMCG,Standard,367,499.27,5.39,0.155,351,243,Active
+PROD_0142,SKU-1142,Packaging Tape Roll Model-231,Electronics,Economy,163,246.55,20.18,0.101,106,357,Active
+PROD_0143,SKU-1143,Smart Barcode Scanner Model-894,Automotive,Standard,251,389.34,24.44,0.143,325,261,Active
+PROD_0144,SKU-1144,Industrial Router Model-488,electronics,Premium,56,83.21,8.81,0.126,222,195,Active
+PROD_0145,SKU-1145,Safety Helmet Model-582,electronics,Standard,184,245.27,9.78,0.105,197,314,Active
+PROD_0146,SKU-1146,Smart Barcode Scanner Model-386,Pharma,Premium,236,365.57,14.71,0.196,207,151,Active
+PROD_0147,SKU-1147,Conveyor Motor Model-542,Pharma,Premium,461,614.3,4.5,0.192,166,342,Active
+PROD_0148,SKU-1148,Industrial Router Model-237,electronics,Economy,140,195.65,18.29,0.159,243,228,Active
+PROD_0149,SKU-1149,Safety Helmet Model-507,Electronics,Economy,489,708.43,4.92,0.051,220,343,Active
+PROD_0150,SKU-1150,Hydraulic Pump Model-366,FMCG,Standard,280,422.97,14.45,0.187,221,276,Active
+PROD_0151,SKU-1151,Industrial Router Model-988,electronics,Premium,260,336.03,14.84,0.133,365,189,Active
+PROD_0152,SKU-1152,Conveyor Motor Model-622,Pharma,Economy,231,315.03,11.73,0.025,236,337,Active
+PROD_0153,SKU-1153,LED Panel Light Model-927,FMCG,Standard,494,646.47,16.15,0.119,126,140,Active
+PROD_0154,SKU-1154,LED Panel Light Model-424,FMCG,Economy,225,299.22,7.42,0.132,228,327,Active
+PROD_0155,SKU-1155,Smart Barcode Scanner Model-561,Pharma,Premium,432,628.74,5.41,0.014,210,438,Active
+PROD_0156,SKU-1156,Conveyor Motor Model-181,Automotive,Premium,430,642.95,10.53,0.028,332,380,Active
+PROD_0157,SKU-1157,Industrial Router Model-636,Electronics,Premium,63,95.75,7.3,0.04,289,258,Active
+PROD_0158,SKU-1158,Warehouse Rack Model-553,Automotive,Premium,176,265.44,13.64,0.042,107,439,Active
+PROD_0159,SKU-1159,Smart Barcode Scanner Model-984,Pharma,Standard,490,769.47,24.4,0.113,229,380,Active
+PROD_0160,SKU-1160,Business Laptop Model-814,electronics,Premium,119,189.13,15.18,0.097,312,368,Active
+PROD_0161,SKU-1161,Safety Helmet Model-593,electronics,Premium,208,326.17,20.31,0.094,277,311,Active
+PROD_0162,SKU-1162,Conveyor Motor Model-100,electronics,Premium,129,174.96,9.25,0.099,94,452,Active
+PROD_0163,SKU-1163,Business Laptop Model-109,Pharma,Standard,436,617.8,15.33,0.161,281,196,Active
+PROD_0164,SKU-1164,Packaging Tape Roll Model-355,Automotive,Economy,337,472.81,18.69,0.084,283,212,Active
+PROD_0165,SKU-1165,Conveyor Motor Model-345,electronics,Economy,90,125.8,20.38,0.14,235,432,Active
+PROD_0166,SKU-1166,Safety Helmet Model-292,Electronics,Premium,464,623.66,4.28,0.031,323,416,Active
+PROD_0167,SKU-1167,Business Laptop Model-603,Automotive,Standard,189,282.59,1.47,0.019,363,111,Active
+PROD_0168,SKU-1168,LED Panel Light Model-228,Pharma,Economy,102,137.57,1.2,0.027,97,352,Active
+PROD_0169,SKU-1169,Warehouse Rack Model-904,Pharma,Standard,225,314.34,12.13,0.16,259,141,Active
+PROD_0170,SKU-1170,LED Panel Light Model-501,Electronics,Economy,78,104.78,12.28,0.047,218,295,Active
+PROD_0171,SKU-1171,Industrial Router Model-831,Automotive,Standard,112,178.2,19.51,0.094,107,201,Active
+PROD_0172,SKU-1172,Business Laptop Model-633,Automotive,Standard,426,647.46,10.34,0.193,255,181,Active
+PROD_0173,SKU-1173,Industrial Router Model-633,Electronics,Standard,431,680.16,12.55,0.067,274,126,Active
+PROD_0174,SKU-1174,Warehouse Rack Model-544,FMCG,Premium,107,142.59,5.02,0.062,151,302,Active
+PROD_0175,SKU-1175,Warehouse Rack Model-695,Pharma,Economy,54,85.81,15.31,0.081,135,227,Active
+PROD_0176,SKU-1176,LED Panel Light Model-733,FMCG,Economy,305,391.01,2.44,0.078,168,459,Active
+PROD_0177,SKU-1177,Safety Helmet Model-599,Automotive,Standard,455,585.85,24.56,0.16,267,324,Active
+PROD_0178,SKU-1178,Warehouse Rack Model-466,Automotive,Standard,60,89.47,22.57,0.102,314,386,Active
+PROD_0179,SKU-1179,Conveyor Motor Model-294,electronics,Premium,327,488.53,14.05,0.071,329,240,Active
+PROD_0180,SKU-1180,Electric Actuator Model-170,electronics,Premium,490,707.6,11.79,0.166,277,332,Active
+PROD_0181,SKU-1181,Industrial Router Model-488,Automotive,Premium,447,658.57,15.87,0.079,212,264,Active
+PROD_0182,SKU-1182,Hydraulic Pump Model-938,Pharma,Premium,387,614.75,13.58,0.105,168,413,Active
+PROD_0183,SKU-1183,Conveyor Motor Model-429,Electronics,Premium,215,299.59,13.56,0.023,156,191,Active
+PROD_0184,SKU-1184,Industrial Router Model-296,Electronics,Premium,153,196.98,14.7,0.169,340,369,Active
+PROD_0185,SKU-1185,Electric Actuator Model-150,FMCG,Premium,409,595.75,15.54,0.023,196,435,Active
+PROD_0186,SKU-1186,Business Laptop Model-920,Electronics,Standard,476,608.32,14.39,0.188,302,288,Active
+PROD_0187,SKU-1187,Industrial Router Model-641,Electronics,Economy,471,690.45,2.69,0.068,200,365,Active
+PROD_0188,SKU-1188,Hydraulic Pump Model-644,Pharma,Premium,101,151.88,5.63,0.135,181,385,Active
+PROD_0189,SKU-1189,Safety Helmet Model-884,electronics,Standard,262,395.92,17.19,0.143,308,153,Active
+PROD_0190,SKU-1190,LED Panel Light Model-511,electronics,Standard,455,597.48,16.78,0.111,316,280,Active
+PROD_0191,SKU-1191,Smart Barcode Scanner Model-432,FMCG,Standard,331,528.61,19.34,0.092,255,411,Active
+PROD_0192,SKU-1192,Warehouse Rack Model-484,electronics,Economy,338,487.05,7.1,0.193,319,303,Active
+PROD_0193,SKU-1193,Industrial Router Model-391,electronics,Premium,421,531.36,13.42,0.199,244,103,Active
+PROD_0194,SKU-1194,Conveyor Motor Model-422,Electronics,Economy,163,216.01,20.74,0.185,351,384,Active
+PROD_0195,SKU-1195,Electric Actuator Model-138,Pharma,Standard,342,446.02,4.75,0.06,217,219,Active
+PROD_0196,SKU-1196,Conveyor Motor Model-684,Pharma,Economy,465,630.12,23.03,0.15,256,347,Active
+PROD_0197,SKU-1197,LED Panel Light Model-806,electronics,Premium,299,460.16,15.29,0.067,285,140,Active
+PROD_0198,SKU-1198,Industrial Router Model-936,Pharma,Standard,444,606.96,23.33,0.033,206,482,Active
+PROD_0199,SKU-1199,Electric Actuator Model-747,Pharma,Premium,55,80.95,8.31,0.018,166,267,Active
+PROD_0200,SKU-1200,Safety Helmet Model-151,Pharma,Standard,407,540.2,19.07,0.119,136,213,Active
+PROD_0201,SKU-1201,Packaging Tape Roll Model-251,Automotive,Standard,198,302.0,2.98,0.119,115,380,Active
+PROD_0202,SKU-1202,Packaging Tape Roll Model-613,Pharma,Economy,184,235.48,4.13,0.036,191,349,Active
+PROD_0203,SKU-1203,Packaging Tape Roll Model-674,electronics,Economy,383,555.34,13.58,0.056,226,497,Active
+PROD_0204,SKU-1204,Packaging Tape Roll Model-689,Electronics,Premium,215,320.28,17.12,0.09,268,197,Active
+PROD_0205,SKU-1205,Smart Barcode Scanner Model-124,FMCG,Premium,226,329.48,24.7,0.127,316,419,Active
+PROD_0206,SKU-1206,LED Panel Light Model-937,Automotive,Premium,275,348.07,17.45,0.04,133,157,Active
+PROD_0207,SKU-1207,Industrial Router Model-251,FMCG,Premium,174,275.29,9.24,0.163,246,330,Active
+PROD_0208,SKU-1208,Business Laptop Model-857,electronics,Premium,61,83.34,5.89,0.109,222,380,Active
+PROD_0209,SKU-1209,Business Laptop Model-244,Electronics,Standard,368,554.01,14.99,0.136,112,230,Active
+PROD_0210,SKU-1210,LED Panel Light Model-908,electronics,Standard,80,107.95,2.27,0.134,94,134,Active
+PROD_0211,SKU-1211,Packaging Tape Roll Model-972,FMCG,Premium,388,521.84,1.46,0.175,287,218,Active
+PROD_0212,SKU-1212,Packaging Tape Roll Model-201,FMCG,Standard,310,493.46,21.8,0.111,185,201,Active
+PROD_0213,SKU-1213,Safety Helmet Model-829,Electronics,Premium,284,410.73,6.94,0.111,260,350,Active
+PROD_0214,SKU-1214,Packaging Tape Roll Model-455,FMCG,Standard,431,562.43,16.01,0.055,346,241,Active
+PROD_0215,SKU-1215,Industrial Router Model-496,Electronics,Economy,370,495.87,23.78,0.053,264,301,Active
+PROD_0216,SKU-1216,LED Panel Light Model-633,electronics,Economy,94,141.51,17.48,0.089,168,318,Active
+PROD_0217,SKU-1217,Conveyor Motor Model-655,Automotive,Premium,359,490.12,16.66,0.12,193,170,Active
+PROD_0218,SKU-1218,Conveyor Motor Model-636,Automotive,Standard,402,601.71,24.9,0.195,164,435,Active
+PROD_0219,SKU-1219,Electric Actuator Model-670,electronics,Economy,130,176.95,3.84,0.07,164,472,Active
+PROD_0220,SKU-1220,Industrial Router Model-523,Pharma,Standard,441,600.44,11.63,0.187,230,177,Active
+PROD_0221,SKU-1221,Warehouse Rack Model-126,electronics,Economy,104,134.79,7.4,0.118,208,405,Active
+PROD_0222,SKU-1222,Warehouse Rack Model-467,Electronics,Economy,168,250.42,19.72,0.035,330,464,Active
+PROD_0223,SKU-1223,Smart Barcode Scanner Model-603,Pharma,Premium,144,222.95,4.93,0.053,299,491,Active
+PROD_0224,SKU-1224,Industrial Router Model-327,Automotive,Premium,188,297.52,2.59,0.186,314,415,Active
+PROD_0225,SKU-1225,Business Laptop Model-568,Automotive,Standard,402,548.21,10.72,0.018,284,468,Active
+PROD_0226,SKU-1226,Smart Barcode Scanner Model-860,electronics,Economy,251,367.47,13.87,0.132,109,366,Active
+PROD_0227,SKU-1227,Hydraulic Pump Model-998,Electronics,Premium,281,396.19,13.45,0.085,110,385,Active
+PROD_0228,SKU-1228,Packaging Tape Roll Model-150,Automotive,Standard,314,476.59,11.55,0.178,236,336,Active
+PROD_0229,SKU-1229,LED Panel Light Model-155,electronics,Premium,266,359.91,12.13,0.133,136,469,Active
+PROD_0230,SKU-1230,Safety Helmet Model-699,electronics,Premium,107,140.48,10.43,0.071,102,191,Active
+PROD_0231,SKU-1231,Business Laptop Model-306,Pharma,Premium,352,550.46,7.0,0.141,173,467,Active
+PROD_0232,SKU-1232,Hydraulic Pump Model-560,FMCG,Premium,96,123.84,13.57,0.083,351,413,Active
+PROD_0233,SKU-1233,LED Panel Light Model-144,Automotive,Standard,243,350.56,14.57,0.135,166,183,Active
+PROD_0234,SKU-1234,LED Panel Light Model-152,Pharma,Standard,141,214.21,8.43,0.156,318,247,Active
+PROD_0235,SKU-1235,LED Panel Light Model-307,Electronics,Economy,110,172.09,19.37,0.012,344,355,Active
+PROD_0236,SKU-1236,Safety Helmet Model-605,Automotive,Premium,463,579.68,15.13,0.1,299,326,Active
+PROD_0237,SKU-1237,Hydraulic Pump Model-350,electronics,Standard,357,521.23,15.87,0.116,196,125,Active
+PROD_0238,SKU-1238,LED Panel Light Model-457,Electronics,Premium,125,158.66,21.49,0.137,242,269,Active
+PROD_0239,SKU-1239,Hydraulic Pump Model-282,Automotive,Economy,75,96.61,7.83,0.136,180,333,Active
+PROD_0240,SKU-1240,Electric Actuator Model-195,FMCG,Standard,234,368.79,9.85,0.082,124,488,Active
+PROD_0241,SKU-1241,Packaging Tape Roll Model-399,Pharma,Premium,481,693.92,3.93,0.173,258,369,Active
+PROD_0242,SKU-1242,Packaging Tape Roll Model-314,electronics,Premium,318,420.86,3.62,0.149,360,144,Active
+PROD_0243,SKU-1243,Business Laptop Model-907,FMCG,Standard,420,626.23,15.61,0.07,359,394,Active
+PROD_0244,SKU-1244,Electric Actuator Model-729,electronics,Standard,231,363.71,13.47,0.13,342,192,Active
+PROD_0245,SKU-1245,Electric Actuator Model-298,Electronics,Premium,169,253.16,1.58,0.129,150,477,Active
+PROD_0246,SKU-1246,Warehouse Rack Model-524,Pharma,Premium,459,672.6,9.01,0.116,198,105,Active
+PROD_0247,SKU-1247,Warehouse Rack Model-909,Electronics,Standard,403,543.47,8.21,0.114,93,158,Active
+PROD_0248,SKU-1248,Smart Barcode Scanner Model-682,electronics,Premium,224,311.05,20.97,0.047,263,444,Active
+PROD_0249,SKU-1249,Business Laptop Model-761,Automotive,Standard,292,446.48,4.73,0.098,364,271,Active
+PROD_0250,SKU-1250,Business Laptop Model-860,Electronics,Economy,451,692.27,8.18,0.148,251,384,Active
+PROD_0251,SKU-1251,Safety Helmet Model-801,FMCG,Standard,59,78.05,2.59,0.038,105,273,Active
+PROD_0252,SKU-1252,Packaging Tape Roll Model-269,electronics,Economy,370,531.69,10.35,0.123,247,461,Active
+PROD_0253,SKU-1253,Smart Barcode Scanner Model-523,Electronics,Standard,413,520.82,22.05,0.081,244,210,Active
+PROD_0254,SKU-1254,Safety Helmet Model-483,Electronics,Premium,204,267.5,22.92,0.094,102,347,Active
+PROD_0255,SKU-1255,Safety Helmet Model-595,electronics,Standard,128,168.52,19.61,0.037,140,364,Active
+PROD_0256,SKU-1256,LED Panel Light Model-570,Pharma,Economy,155,233.06,21.76,0.032,249,122,Active
+PROD_0257,SKU-1257,Electric Actuator Model-578,Electronics,Premium,496,635.12,13.49,0.135,249,111,Active
+PROD_0258,SKU-1258,Electric Actuator Model-314,FMCG,Premium,438,595.35,5.62,0.063,253,495,Active
+PROD_0259,SKU-1259,Business Laptop Model-252,Automotive,Standard,393,507.43,3.75,0.192,353,152,Active
+PROD_0260,SKU-1260,Warehouse Rack Model-426,FMCG,Premium,327,448.84,23.64,0.163,215,187,Active
+PROD_0261,SKU-1261,Hydraulic Pump Model-446,electronics,Standard,209,306.11,2.22,0.016,115,154,Active
+PROD_0262,SKU-1262,Packaging Tape Roll Model-501,Automotive,Economy,77,98.57,15.31,0.123,318,415,Active
+PROD_0263,SKU-1263,Smart Barcode Scanner Model-302,electronics,Premium,209,285.56,24.37,0.154,328,390,Active
+PROD_0264,SKU-1264,LED Panel Light Model-815,Pharma,Premium,97,148.85,11.93,0.14,328,340,Active
+PROD_0265,SKU-1265,Warehouse Rack Model-731,FMCG,Standard,164,213.25,10.41,0.143,259,266,Active
+PROD_0266,SKU-1266,Business Laptop Model-586,Electronics,Standard,299,376.92,12.49,0.171,234,493,Active
+PROD_0267,SKU-1267,Smart Barcode Scanner Model-620,Electronics,Standard,359,520.96,20.62,0.161,256,384,Active
+PROD_0268,SKU-1268,Hydraulic Pump Model-572,Pharma,Economy,455,616.86,10.92,0.128,171,346,Active
+PROD_0269,SKU-1269,Packaging Tape Roll Model-933,electronics,Standard,83,113.65,19.82,0.093,265,378,Active
+PROD_0270,SKU-1270,Warehouse Rack Model-179,electronics,Standard,138,204.5,3.74,0.123,256,384,Active
+PROD_0271,SKU-1271,Hydraulic Pump Model-415,Pharma,Premium,470,660.74,15.36,0.14,284,267,Active
+PROD_0272,SKU-1272,Business Laptop Model-192,Automotive,Premium,380,562.8,22.29,0.182,90,487,Active
+PROD_0273,SKU-1273,LED Panel Light Model-644,FMCG,Standard,388,505.26,15.77,0.095,195,448,Active
+PROD_0274,SKU-1274,Smart Barcode Scanner Model-795,FMCG,Standard,203,294.27,18.23,0.184,135,398,Active
+PROD_0275,SKU-1275,Industrial Router Model-513,Automotive,Standard,363,579.07,2.5,0.181,117,100,Active
+PROD_0276,SKU-1276,Safety Helmet Model-212,FMCG,Premium,470,748.5,6.65,0.143,291,420,Active
+PROD_0277,SKU-1277,Smart Barcode Scanner Model-490,Pharma,Economy,414,572.97,6.07,0.043,161,196,Active
+PROD_0278,SKU-1278,Safety Helmet Model-468,Pharma,Premium,246,380.11,7.92,0.176,154,168,Active
+PROD_0279,SKU-1279,Industrial Router Model-247,Pharma,Economy,86,127.02,11.48,0.198,133,170,Active
+PROD_0280,SKU-1280,Packaging Tape Roll Model-907,electronics,Standard,490,690.71,15.96,0.096,307,382,Active
+PROD_0281,SKU-1281,Business Laptop Model-290,Pharma,Economy,246,338.09,1.18,0.105,211,464,Active
+PROD_0282,SKU-1282,Safety Helmet Model-659,electronics,Standard,187,260.64,1.8,0.017,337,460,Active
+PROD_0283,SKU-1283,Smart Barcode Scanner Model-807,Electronics,Premium,107,155.48,18.52,0.11,233,338,Active
+PROD_0284,SKU-1284,Safety Helmet Model-724,Electronics,Premium,90,128.99,12.34,0.151,129,450,Active
+PROD_0285,SKU-1285,Safety Helmet Model-727,Electronics,Standard,458,665.41,13.84,0.012,322,362,Active
+PROD_0286,SKU-1286,Business Laptop Model-531,FMCG,Standard,343,516.84,7.94,0.017,245,472,Active
+PROD_0287,SKU-1287,Electric Actuator Model-584,electronics,Premium,183,232.68,14.75,0.135,239,477,Active
+PROD_0288,SKU-1288,Electric Actuator Model-184,Automotive,Economy,63,85.07,2.84,0.159,219,167,Active
+PROD_0289,SKU-1289,Electric Actuator Model-363,Electronics,Economy,193,259.84,3.68,0.043,167,437,Active
+PROD_0290,SKU-1290,Business Laptop Model-367,Automotive,Standard,239,366.33,5.34,0.11,106,275,Active
+PROD_0291,SKU-1291,Hydraulic Pump Model-941,Automotive,Standard,124,180.85,19.07,0.088,286,221,Active
+PROD_0292,SKU-1292,Business Laptop Model-315,electronics,Economy,421,620.2,21.2,0.02,225,486,Active
+PROD_0293,SKU-1293,Hydraulic Pump Model-508,Pharma,Standard,76,99.46,12.43,0.19,362,219,Active
+PROD_0294,SKU-1294,Packaging Tape Roll Model-585,FMCG,Premium,399,597.29,13.73,0.093,237,329,Active
+PROD_0295,SKU-1295,Packaging Tape Roll Model-642,Electronics,Premium,397,540.11,23.03,0.131,311,412,Active
+PROD_0296,SKU-1296,Conveyor Motor Model-921,Electronics,Standard,221,297.16,16.7,0.084,213,475,Active
+PROD_0297,SKU-1297,Electric Actuator Model-445,Automotive,Standard,444,585.29,14.14,0.138,124,106,Active
+PROD_0298,SKU-1298,Packaging Tape Roll Model-801,Pharma,Standard,100,143.38,6.27,0.064,188,117,Active
+PROD_0299,SKU-1299,Industrial Router Model-708,Automotive,Economy,367,470.56,16.31,0.145,151,144,Active
+PROD_0300,SKU-1300,Electric Actuator Model-882,electronics,Premium,116,160.26,22.5,0.142,219,250,Active

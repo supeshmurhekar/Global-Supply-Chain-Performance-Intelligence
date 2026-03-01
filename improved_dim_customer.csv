@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Customer_Type,Industry,Region,Contract_Type,Credit_Terms
+CUST_0001,Arjun Logistics,b2b,Healthcare,APAC,Annual,Net30
+CUST_0002,Arjun Distributors,B2B,Ecommerce,APAC,Annual,Net30
+CUST_0003,Krishna Solutions,b2b,Automotive,North America,Annual,Net60
+CUST_0004,Ishaan Retail,b2b,Healthcare,APAC,Annual,Net60
+CUST_0005,Rohan Corporation,B2B,Retail,Europe,Annual,Net30
+CUST_0006,Neha Industries,B2C,Healthcare,North America,Quarterly,Net30
+CUST_0007,Ananya Distributors,B2B,Ecommerce,APAC,Quarterly,Net60
+CUST_0008,Karan Solutions,b2b,Automotive,APAC,Annual,Net60
+CUST_0009,Aditya Solutions,B2B,Ecommerce,Europe,Quarterly,Net60
+CUST_0010,Vihaan Traders,B2C,Retail,North America,Quarterly,Net30
+CUST_0011,Vikas Enterprises,b2b,Retail,APAC,Quarterly,Net60
+CUST_0012,Shaurya Distributors,B2B,Healthcare,APAC,Annual,Net30
+CUST_0013,Rohan Global,B2C,Automotive,APAC,Quarterly,Net30
+CUST_0014,Sneha Global,b2b,Ecommerce,APAC,Quarterly,Net30
+CUST_0015,Ishaan Distributors,b2b,Healthcare,North America,Quarterly,Net60
+CUST_0016,Rahul Solutions,B2B,Ecommerce,APAC,Annual,Net30
+CUST_0017,Reyansh Enterprises,b2b,Ecommerce,North America,Annual,Net60
+CUST_0018,Neha Supply,B2C,Healthcare,North America,Annual,Net30
+CUST_0019,Amit Corporation,b2b,Healthcare,APAC,Quarterly,Net60
+CUST_0020,Vihaan Retail,B2B,Healthcare,North America,Annual,Net30
+CUST_0021,Atharv Distributors,b2b,Retail,APAC,Quarterly,Net30
+CUST_0022,Amit Distributors,B2B,Healthcare,Europe,Annual,Net30
+CUST_0023,Rahul Corporation,B2B,Automotive,APAC,Annual,Net30
+CUST_0024,Sneha Industries,b2b,Retail,APAC,Quarterly,Net30
+CUST_0025,Shaurya Distributors,b2b,Ecommerce,APAC,Annual,Net60
+CUST_0026,Neha Traders,B2C,Ecommerce,APAC,Annual,Net30
+CUST_0027,Aditya Traders,B2B,Retail,North America,Annual,Net30
+CUST_0028,Aditya Logistics,B2B,Automotive,APAC,Quarterly,Net30
+CUST_0029,Pooja Solutions,B2C,Ecommerce,APAC,Annual,Net60
+CUST_0030,Ishaan Retail,B2C,Retail,APAC,Annual,Net60
+CUST_0031,Rahul Global,B2C,Ecommerce,North America,Annual,Net30
+CUST_0032,Vivaan Global,b2b,Healthcare,APAC,Annual,Net30
+CUST_0033,Krishna Distributors,B2C,Retail,Europe,Annual,Net60
+CUST_0034,Ananya Solutions,B2B,Ecommerce,North America,Annual,Net30
+CUST_0035,Amit Logistics,B2B,Retail,APAC,Quarterly,Net60
+CUST_0036,Sneha Solutions,B2C,Automotive,APAC,Quarterly,Net30
+CUST_0037,Neha Corporation,B2C,Healthcare,Europe,Quarterly,Net30
+CUST_0038,Krishna Corporation,B2B,Automotive,North America,Annual,Net60
+CUST_0039,Vivaan Logistics,b2b,Ecommerce,North America,Annual,Net30
+CUST_0040,Pooja Industries,B2B,Automotive,North America,Annual,Net30
+CUST_0041,Neha Industries,b2b,Retail,North America,Annual,Net30
+CUST_0042,Priya Supply,b2b,Healthcare,Europe,Annual,Net60
+CUST_0043,Ishaan Corporation,B2C,Retail,North America,Quarterly,Net60
+CUST_0044,Rohan Industries,B2B,Ecommerce,North America,Annual,Net30
+CUST_0045,Amit Solutions,b2b,Healthcare,APAC,Quarterly,Net30
+CUST_0046,Ishaan Traders,B2C,Retail,Europe,Quarterly,Net30
+CUST_0047,Amit Corporation,b2b,Automotive,APAC,Quarterly,Net30
+CUST_0048,Arjun Distributors,B2B,Healthcare,Europe,Annual,Net60
+CUST_0049,Krishna Corporation,b2b,Ecommerce,Europe,Annual,Net30
+CUST_0050,Priya Corporation,B2B,Automotive,Europe,Annual,Net60
+CUST_0051,Vihaan Retail,b2b,Ecommerce,North America,Annual,Net30
+CUST_0052,Aditya Enterprises,b2b,Automotive,Europe,Annual,Net60
+CUST_0053,Reyansh Logistics,B2C,Healthcare,APAC,Quarterly,Net30
+CUST_0054,Ishaan Industries,B2C,Ecommerce,North America,Annual,Net30
+CUST_0055,Vihaan Enterprises,B2C,Automotive,APAC,Quarterly,Net60
+CUST_0056,Ishaan Corporation,B2B,Automotive,Europe,Annual,Net60
+CUST_0057,Ishaan Solutions,B2C,Healthcare,Europe,Annual,Net30
+CUST_0058,Aarav Solutions,B2C,Healthcare,Europe,Annual,Net60
+CUST_0059,Rahul Distributors,B2C,Healthcare,APAC,Annual,Net60
+CUST_0060,Vihaan Supply,B2C,Automotive,APAC,Quarterly,Net60
+CUST_0061,Rohan Global,b2b,Automotive,Europe,Annual,Net60
+CUST_0062,Vivaan Global,B2B,Retail,Europe,Quarterly,Net30
+CUST_0063,Rohan Supply,B2C,Automotive,North America,Quarterly,Net60
+CUST_0064,Priya Traders,B2C,Healthcare,North America,Annual,Net30
+CUST_0065,Priya Global,b2b,Retail,North America,Quarterly,Net60
+CUST_0066,Amit Logistics,B2C,Healthcare,APAC,Quarterly,Net60
+CUST_0067,Ananya Retail,B2C,Retail,North America,Quarterly,Net30
+CUST_0068,Aditya Corporation,b2b,Healthcare,APAC,Annual,Net60
+CUST_0069,Ishaan Solutions,B2B,Automotive,APAC,Annual,Net60
+CUST_0070,Vikas Industries,B2C,Ecommerce,North America,Annual,Net60
+CUST_0071,Sneha Global,B2B,Retail,North America,Annual,Net30
+CUST_0072,Priya Solutions,B2B,Ecommerce,APAC,Annual,Net30
+CUST_0073,Ananya Enterprises,B2C,Healthcare,Europe,Quarterly,Net60
+CUST_0074,Vihaan Retail,B2C,Healthcare,APAC,Quarterly,Net60
+CUST_0075,Ishaan Corporation,B2C,Automotive,North America,Quarterly,Net30
+CUST_0076,Shaurya Traders,B2C,Automotive,APAC,Annual,Net30
+CUST_0077,Neha Enterprises,b2b,Retail,APAC,Quarterly,Net60
+CUST_0078,Rohan Distributors,B2C,Ecommerce,APAC,Annual,Net60
+CUST_0079,Neha Supply,b2b,Automotive,North America,Quarterly,Net60
+CUST_0080,Aarav Traders,B2C,Ecommerce,Europe,Annual,Net60
+CUST_0081,Ishaan Corporation,B2C,Ecommerce,APAC,Quarterly,Net60
+CUST_0082,Neha Enterprises,B2C,Retail,North America,Annual,Net60
+CUST_0083,Karan Supply,b2b,Automotive,APAC,Quarterly,Net30
+CUST_0084,Ananya Enterprises,B2B,Healthcare,Europe,Quarterly,Net30
+CUST_0085,Ananya Traders,B2C,Ecommerce,Europe,Quarterly,Net60
+CUST_0086,Aditya Retail,B2B,Automotive,Europe,Annual,Net30
+CUST_0087,Vivaan Logistics,B2B,Retail,APAC,Annual,Net30
+CUST_0088,Reyansh Retail,b2b,Automotive,North America,Annual,Net60
+CUST_0089,Shaurya Traders,B2B,Automotive,APAC,Quarterly,Net30
+CUST_0090,Karan Logistics,B2C,Ecommerce,Europe,Annual,Net30
+CUST_0091,Karan Solutions,B2B,Healthcare,North America,Annual,Net30
+CUST_0092,Rahul Distributors,B2C,Healthcare,APAC,Quarterly,Net30
+CUST_0093,Priya Retail,B2B,Ecommerce,Europe,Quarterly,Net30
+CUST_0094,Priya Enterprises,b2b,Healthcare,North America,Quarterly,Net60
+CUST_0095,Priya Supply,B2C,Healthcare,APAC,Annual,Net60
+CUST_0096,Ananya Solutions,B2C,Ecommerce,Europe,Annual,Net60
+CUST_0097,Rohan Enterprises,B2C,Retail,Europe,Quarterly,Net60
+CUST_0098,Shaurya Supply,b2b,Healthcare,North America,Annual,Net30
+CUST_0099,Aditya Solutions,b2b,Ecommerce,Europe,Annual,Net60
+CUST_0100,Sneha Retail,B2B,Automotive,Europe,Annual,Net60
+CUST_0101,Ishaan Corporation,b2b,Healthcare,Europe,Quarterly,Net60
+CUST_0102,Amit Traders,B2C,Ecommerce,Europe,Quarterly,Net60
+CUST_0103,Ishaan Industries,b2b,Retail,Europe,Annual,Net30
+CUST_0104,Krishna Solutions,b2b,Ecommerce,Europe,Quarterly,Net30
+CUST_0105,Krishna Corporation,B2B,Healthcare,APAC,Quarterly,Net30
+CUST_0106,Amit Enterprises,B2C,Automotive,APAC,Quarterly,Net30
+CUST_0107,Sneha Industries,B2B,Healthcare,Europe,Quarterly,Net60
+CUST_0108,Rohan Enterprises,B2B,Healthcare,Europe,Annual,Net30
+CUST_0109,Neha Retail,B2B,Automotive,APAC,Annual,Net60
+CUST_0110,Aditya Solutions,B2B,Ecommerce,North America,Annual,Net60
+CUST_0111,Ananya Retail,B2C,Ecommerce,Europe,Annual,Net30
+CUST_0112,Krishna Solutions,B2C,Automotive,APAC,Annual,Net30
+CUST_0113,Amit Industries,B2B,Automotive,Europe,Quarterly,Net60
+CUST_0114,Atharv Logistics,B2B,Healthcare,North America,Quarterly,Net60
+CUST_0115,Aditya Solutions,B2C,Retail,Europe,Annual,Net30
+CUST_0116,Reyansh Corporation,B2B,Automotive,APAC,Annual,Net60
+CUST_0117,Vikas Supply,B2C,Ecommerce,APAC,Quarterly,Net60
+CUST_0118,Neha Corporation,b2b,Ecommerce,Europe,Annual,Net30
+CUST_0119,Priya Traders,b2b,Healthcare,APAC,Annual,Net30
+CUST_0120,Karan Supply,B2B,Healthcare,North America,Annual,Net30
+CUST_0121,Sneha Distributors,b2b,Ecommerce,Europe,Annual,Net60
+CUST_0122,Sneha Industries,B2C,Healthcare,Europe,Quarterly,Net60
+CUST_0123,Arjun Enterprises,B2C,Ecommerce,North America,Quarterly,Net60
+CUST_0124,Neha Distributors,B2B,Ecommerce,APAC,Quarterly,Net60
+CUST_0125,Rohan Industries,B2C,Automotive,North America,Quarterly,Net60
+CUST_0126,Vivaan Solutions,b2b,Healthcare,North America,Quarterly,Net60
+CUST_0127,Vivaan Solutions,B2C,Retail,Europe,Quarterly,Net60
+CUST_0128,Arjun Logistics,b2b,Retail,North America,Annual,Net60
+CUST_0129,Amit Logistics,b2b,Ecommerce,APAC,Annual,Net30
+CUST_0130,Ananya Industries,b2b,Retail,Europe,Quarterly,Net60
+CUST_0131,Priya Retail,B2C,Retail,Europe,Annual,Net60
+CUST_0132,Krishna Supply,b2b,Retail,APAC,Quarterly,Net60
+CUST_0133,Rohan Distributors,B2C,Automotive,Europe,Quarterly,Net60
+CUST_0134,Reyansh Retail,b2b,Ecommerce,Europe,Quarterly,Net60
+CUST_0135,Ananya Traders,B2B,Retail,North America,Quarterly,Net30
+CUST_0136,Priya Logistics,B2C,Ecommerce,North America,Quarterly,Net60
+CUST_0137,Reyansh Retail,B2B,Retail,North America,Quarterly,Net30
+CUST_0138,Ananya Industries,b2b,Ecommerce,APAC,Annual,Net60
+CUST_0139,Reyansh Industries,B2C,Healthcare,Europe,Quarterly,Net30
+CUST_0140,Rohan Distributors,B2C,Healthcare,North America,Quarterly,Net30
+CUST_0141,Vikas Industries,B2B,Healthcare,APAC,Annual,Net60
+CUST_0142,Arjun Industries,B2C,Retail,North America,Quarterly,Net30
+CUST_0143,Vivaan Traders,B2B,Healthcare,Europe,Quarterly,Net60
+CUST_0144,Reyansh Solutions,b2b,Ecommerce,North America,Annual,Net30
+CUST_0145,Vihaan Industries,b2b,Ecommerce,North America,Annual,Net60
+CUST_0146,Karan Enterprises,B2B,Ecommerce,North America,Quarterly,Net60
+CUST_0147,Shaurya Logistics,B2C,Healthcare,North America,Annual,Net30
+CUST_0148,Ananya Traders,b2b,Healthcare,North America,Quarterly,Net60
+CUST_0149,Ananya Corporation,B2B,Ecommerce,Europe,Annual,Net30
+CUST_0150,Neha Supply,B2C,Healthcare,North America,Quarterly,Net30
+CUST_0151,Neha Corporation,B2B,Automotive,North America,Quarterly,Net60
+CUST_0152,Ishaan Supply,B2C,Retail,North America,Annual,Net60
+CUST_0153,Reyansh Industries,b2b,Automotive,Europe,Quarterly,Net30
+CUST_0154,Karan Traders,b2b,Retail,APAC,Quarterly,Net60
+CUST_0155,Priya Enterprises,B2B,Retail,North America,Quarterly,Net60
+CUST_0156,Vihaan Corporation,B2C,Healthcare,North America,Quarterly,Net30
+CUST_0157,Ananya Industries,B2B,Retail,North America,Quarterly,Net60
+CUST_0158,Aditya Global,B2B,Healthcare,North America,Annual,Net60
+CUST_0159,Rahul Corporation,b2b,Ecommerce,North America,Quarterly,Net30
+CUST_0160,Ishaan Retail,B2B,Healthcare,North America,Annual,Net30
+CUST_0161,Ananya Corporation,b2b,Ecommerce,APAC,Annual,Net30
+CUST_0162,Vivaan Corporation,B2C,Automotive,APAC,Annual,Net30
+CUST_0163,Neha Retail,B2C,Ecommerce,North America,Annual,Net60
+CUST_0164,Arjun Retail,b2b,Ecommerce,Europe,Annual,Net60
+CUST_0165,Krishna Retail,B2C,Retail,Europe,Annual,Net60
+CUST_0166,Amit Traders,B2B,Ecommerce,Europe,Annual,Net30
+CUST_0167,Ananya Industries,b2b,Retail,North America,Annual,Net30
+CUST_0168,Rohan Solutions,B2B,Retail,APAC,Annual,Net30
+CUST_0169,Ishaan Traders,B2B,Automotive,Europe,Annual,Net30
+CUST_0170,Amit Corporation,B2B,Automotive,North America,Annual,Net30
+CUST_0171,Aarav Traders,B2B,Healthcare,APAC,Annual,Net60
+CUST_0172,Vivaan Enterprises,b2b,Ecommerce,North America,Annual,Net30
+CUST_0173,Sneha Retail,B2C,Automotive,Europe,Annual,Net30
+CUST_0174,Pooja Corporation,B2C,Automotive,APAC,Quarterly,Net60
+CUST_0175,Priya Industries,B2C,Ecommerce,APAC,Annual,Net60
+CUST_0176,Vikas Enterprises,B2B,Retail,Europe,Quarterly,Net60
+CUST_0177,Vikas Distributors,B2C,Ecommerce,North America,Quarterly,Net30
+CUST_0178,Arjun Distributors,b2b,Retail,Europe,Quarterly,Net30
+CUST_0179,Priya Traders,B2C,Ecommerce,Europe,Annual,Net60
+CUST_0180,Priya Traders,b2b,Healthcare,Europe,Annual,Net60
+CUST_0181,Aditya Industries,B2B,Automotive,Europe,Annual,Net60
+CUST_0182,Reyansh Distributors,B2B,Healthcare,North America,Annual,Net60
+CUST_0183,Rahul Global,b2b,Automotive,Europe,Quarterly,Net60
+CUST_0184,Arjun Supply,b2b,Retail,APAC,Quarterly,Net30
+CUST_0185,Arjun Traders,b2b,Healthcare,APAC,Quarterly,Net30
+CUST_0186,Priya Distributors,b2b,Automotive,North America,Quarterly,Net30
+CUST_0187,Vihaan Corporation,b2b,Healthcare,Europe,Quarterly,Net30
+CUST_0188,Vihaan Enterprises,b2b,Ecommerce,APAC,Annual,Net30
+CUST_0189,Aditya Distributors,B2B,Ecommerce,Europe,Quarterly,Net60
+CUST_0190,Vihaan Traders,B2C,Healthcare,North America,Annual,Net30
+CUST_0191,Reyansh Enterprises,b2b,Automotive,North America,Annual,Net60
+CUST_0192,Ananya Global,B2C,Ecommerce,Europe,Quarterly,Net30
+CUST_0193,Pooja Industries,B2C,Ecommerce,APAC,Quarterly,Net60
+CUST_0194,Pooja Corporation,B2B,Retail,Europe,Annual,Net30
+CUST_0195,Krishna Corporation,B2B,Retail,Europe,Quarterly,Net60
+CUST_0196,Arjun Logistics,B2C,Ecommerce,APAC,Annual,Net60
+CUST_0197,Amit Solutions,b2b,Healthcare,APAC,Quarterly,Net30
+CUST_0198,Priya Logistics,B2C,Automotive,Europe,Quarterly,Net60
+CUST_0199,Priya Corporation,B2B,Ecommerce,APAC,Quarterly,Net30
+CUST_0200,Vikas Retail,b2b,Healthcare,APAC,Quarterly,Net30
+CUST_0201,Ishaan Global,b2b,Ecommerce,North America,Annual,Net60
+CUST_0202,Atharv Traders,B2B,Healthcare,APAC,Annual,Net30
+CUST_0203,Pooja Distributors,B2B,Healthcare,Europe,Annual,Net30
+CUST_0204,Arjun Enterprises,B2C,Retail,APAC,Annual,Net30
+CUST_0205,Vihaan Retail,B2C,Ecommerce,North America,Quarterly,Net60
+CUST_0206,Reyansh Retail,B2B,Ecommerce,Europe,Quarterly,Net60
+CUST_0207,Karan Logistics,B2C,Automotive,Europe,Quarterly,Net60
+CUST_0208,Vivaan Logistics,B2C,Healthcare,APAC,Annual,Net60
+CUST_0209,Ananya Supply,b2b,Automotive,Europe,Annual,Net60
+CUST_0210,Vikas Retail,b2b,Retail,APAC,Quarterly,Net30
+CUST_0211,Rohan Industries,b2b,Retail,APAC,Annual,Net60
+CUST_0212,Ananya Distributors,b2b,Retail,Europe,Quarterly,Net60
+CUST_0213,Neha Global,B2C,Automotive,North America,Quarterly,Net30
+CUST_0214,Rohan Industries,b2b,Ecommerce,Europe,Quarterly,Net30
+CUST_0215,Rohan Industries,b2b,Retail,Europe,Quarterly,Net60
+CUST_0216,Reyansh Supply,b2b,Automotive,Europe,Quarterly,Net60
+CUST_0217,Reyansh Distributors,B2B,Ecommerce,North America,Quarterly,Net30
+CUST_0218,Rahul Corporation,B2B,Retail,Europe,Quarterly,Net30
+CUST_0219,Ishaan Enterprises,B2B,Automotive,Europe,Annual,Net30
+CUST_0220,Rohan Supply,B2B,Ecommerce,APAC,Annual,Net30
+CUST_0221,Vikas Enterprises,b2b,Ecommerce,APAC,Quarterly,Net60
+CUST_0222,Ishaan Retail,b2b,Healthcare,North America,Quarterly,Net30
+CUST_0223,Amit Solutions,B2C,Ecommerce,APAC,Quarterly,Net60
+CUST_0224,Ananya Corporation,B2C,Ecommerce,APAC,Annual,Net30
+CUST_0225,Shaurya Logistics,b2b,Ecommerce,Europe,Annual,Net30
+CUST_0226,Atharv Industries,B2B,Healthcare,Europe,Annual,Net60
+CUST_0227,Aditya Solutions,B2C,Healthcare,APAC,Quarterly,Net30
+CUST_0228,Neha Distributors,B2C,Retail,Europe,Annual,Net60
+CUST_0229,Ishaan Logistics,B2C,Automotive,North America,Quarterly,Net30
+CUST_0230,Reyansh Logistics,B2C,Ecommerce,North America,Annual,Net60
+CUST_0231,Ananya Supply,B2B,Automotive,APAC,Quarterly,Net30
+CUST_0232,Reyansh Distributors,b2b,Ecommerce,APAC,Quarterly,Net30
+CUST_0233,Atharv Industries,B2B,Retail,Europe,Quarterly,Net30
+CUST_0234,Arjun Retail,b2b,Automotive,North America,Annual,Net30
+CUST_0235,Atharv Global,B2B,Healthcare,APAC,Quarterly,Net30
+CUST_0236,Aditya Distributors,B2C,Automotive,North America,Annual,Net60
+CUST_0237,Sneha Logistics,b2b,Ecommerce,Europe,Quarterly,Net30
+CUST_0238,Rahul Industries,B2C,Retail,North America,Annual,Net60
+CUST_0239,Reyansh Logistics,B2C,Healthcare,North America,Annual,Net60
+CUST_0240,Sneha Enterprises,B2B,Automotive,North America,Quarterly,Net30
+CUST_0241,Atharv Solutions,B2B,Retail,APAC,Quarterly,Net60
+CUST_0242,Pooja Global,b2b,Ecommerce,Europe,Annual,Net30
+CUST_0243,Atharv Traders,B2B,Healthcare,Europe,Annual,Net60
+CUST_0244,Priya Global,b2b,Ecommerce,Europe,Quarterly,Net30
+CUST_0245,Sneha Retail,B2C,Healthcare,APAC,Quarterly,Net30
+CUST_0246,Priya Supply,B2B,Healthcare,Europe,Annual,Net30
+CUST_0247,Rohan Corporation,B2C,Ecommerce,North America,Quarterly,Net30
+CUST_0248,Ananya Traders,B2C,Automotive,North America,Quarterly,Net60
+CUST_0249,Shaurya Logistics,B2B,Ecommerce,Europe,Annual,Net30
+CUST_0250,Reyansh Supply,b2b,Ecommerce,APAC,Annual,Net30
+CUST_0251,Ishaan Traders,B2C,Ecommerce,North America,Annual,Net30
+CUST_0252,Ananya Traders,B2C,Ecommerce,APAC,Annual,Net60
+CUST_0253,Neha Traders,b2b,Healthcare,APAC,Annual,Net30
+CUST_0254,Vihaan Retail,b2b,Ecommerce,North America,Annual,Net60
+CUST_0255,Shaurya Retail,B2B,Healthcare,North America,Quarterly,Net30
+CUST_0256,Arjun Enterprises,B2B,Ecommerce,APAC,Quarterly,Net30
+CUST_0257,Rohan Traders,b2b,Automotive,North America,Quarterly,Net60
+CUST_0258,Vihaan Enterprises,B2C,Retail,APAC,Annual,Net30
+CUST_0259,Ishaan Retail,B2B,Healthcare,North America,Quarterly,Net60
+CUST_0260,Amit Enterprises,b2b,Automotive,APAC,Quarterly,Net60
+CUST_0261,Sneha Distributors,B2C,Ecommerce,North America,Annual,Net30
+CUST_0262,Rohan Industries,B2C,Ecommerce,North America,Quarterly,Net30
+CUST_0263,Amit Supply,B2B,Retail,Europe,Annual,Net30
+CUST_0264,Pooja Enterprises,B2C,Retail,APAC,Quarterly,Net30
+CUST_0265,Rahul Distributors,B2C,Automotive,Europe,Annual,Net60
+CUST_0266,Reyansh Corporation,b2b,Automotive,North America,Annual,Net30
+CUST_0267,Vihaan Supply,b2b,Healthcare,North America,Annual,Net30
+CUST_0268,Aditya Logistics,b2b,Healthcare,North America,Annual,Net60
+CUST_0269,Vikas Logistics,B2C,Healthcare,North America,Quarterly,Net60
+CUST_0270,Ishaan Global,B2C,Ecommerce,APAC,Annual,Net30
+CUST_0271,Ananya Global,B2C,Ecommerce,APAC,Quarterly,Net30
+CUST_0272,Rohan Traders,b2b,Healthcare,Europe,Annual,Net60
+CUST_0273,Pooja Distributors,B2B,Healthcare,APAC,Quarterly,Net30
+CUST_0274,Shaurya Retail,B2B,Retail,APAC,Annual,Net60
+CUST_0275,Neha Supply,B2C,Retail,APAC,Quarterly,Net60
+CUST_0276,Krishna Enterprises,B2C,Ecommerce,Europe,Quarterly,Net60
+CUST_0277,Aarav Industries,B2C,Ecommerce,APAC,Annual,Net60
+CUST_0278,Vivaan Logistics,B2C,Ecommerce,North America,Quarterly,Net60
+CUST_0279,Amit Logistics,B2B,Ecommerce,APAC,Quarterly,Net60
+CUST_0280,Neha Traders,B2B,Ecommerce,APAC,Annual,Net60
+CUST_0281,Amit Corporation,B2B,Ecommerce,North America,Quarterly,Net60
+CUST_0282,Vikas Supply,B2B,Retail,APAC,Quarterly,Net60
+CUST_0283,Rohan Distributors,B2C,Retail,APAC,Quarterly,Net30
+CUST_0284,Vivaan Logistics,B2B,Healthcare,Europe,Quarterly,Net30
+CUST_0285,Vikas Distributors,B2B,Healthcare,North America,Quarterly,Net30
+CUST_0286,Neha Supply,b2b,Healthcare,North America,Quarterly,Net60
+CUST_0287,Karan Corporation,B2C,Automotive,Europe,Quarterly,Net30
+CUST_0288,Priya Supply,B2C,Automotive,North America,Quarterly,Net60
+CUST_0289,Karan Supply,B2B,Automotive,North America,Quarterly,Net30
+CUST_0290,Pooja Supply,B2C,Retail,North America,Annual,Net30
+CUST_0291,Karan Industries,B2B,Automotive,Europe,Quarterly,Net60
+CUST_0292,Reyansh Global,b2b,Retail,Europe,Quarterly,Net30
+CUST_0293,Reyansh Distributors,B2B,Healthcare,North America,Quarterly,Net60
+CUST_0294,Rohan Enterprises,B2C,Healthcare,North America,Quarterly,Net60
+CUST_0295,Vikas Retail,B2B,Retail,Europe,Quarterly,Net30
+CUST_0296,Atharv Corporation,b2b,Retail,North America,Quarterly,Net60
+CUST_0297,Sneha Traders,b2b,Healthcare,Europe,Annual,Net60
+CUST_0298,Neha Traders,B2B,Healthcare,APAC,Quarterly,Net30
+CUST_0299,Rahul Retail,b2b,Healthcare,North America,Quarterly,Net30
+CUST_0300,Krishna Distributors,B2C,Healthcare,APAC,Annual,Net30
+CUST_0301,Ishaan Logistics,b2b,Retail,North America,Annual,Net30
+CUST_0302,Arjun Global,B2C,Ecommerce,APAC,Annual,Net30
+CUST_0303,Amit Enterprises,B2C,Ecommerce,Europe,Annual,Net60
+CUST_0304,Rohan Corporation,b2b,Automotive,APAC,Annual,Net30
+CUST_0305,Vihaan Global,B2B,Automotive,Europe,Quarterly,Net30
+CUST_0306,Atharv Logistics,B2B,Healthcare,North America,Annual,Net60
+CUST_0307,Atharv Retail,b2b,Ecommerce,APAC,Quarterly,Net60
+CUST_0308,Krishna Industries,B2C,Retail,North America,Quarterly,Net60
+CUST_0309,Vihaan Logistics,b2b,Healthcare,Europe,Annual,Net30
+CUST_0310,Vikas Global,B2C,Healthcare,APAC,Quarterly,Net30
+CUST_0311,Vihaan Enterprises,B2C,Healthcare,APAC,Annual,Net60
+CUST_0312,Neha Solutions,B2C,Healthcare,Europe,Quarterly,Net30
+CUST_0313,Shaurya Traders,b2b,Retail,APAC,Annual,Net60
+CUST_0314,Atharv Enterprises,B2C,Healthcare,North America,Annual,Net60
+CUST_0315,Rahul Supply,B2B,Retail,APAC,Quarterly,Net30
+CUST_0316,Ananya Supply,B2C,Ecommerce,North America,Quarterly,Net30
+CUST_0317,Ishaan Supply,B2B,Ecommerce,North America,Quarterly,Net30
+CUST_0318,Karan Industries,B2B,Retail,North America,Annual,Net30
+CUST_0319,Rohan Distributors,B2C,Automotive,North America,Annual,Net60
+CUST_0320,Aditya Distributors,B2C,Automotive,Europe,Annual,Net60
+CUST_0321,Ananya Supply,B2B,Ecommerce,North America,Quarterly,Net30
+CUST_0322,Neha Corporation,B2B,Retail,North America,Annual,Net30
+CUST_0323,Priya Traders,b2b,Automotive,North America,Annual,Net30
+CUST_0324,Sneha Logistics,B2C,Ecommerce,APAC,Annual,Net60
+CUST_0325,Rahul Global,B2C,Ecommerce,Europe,Annual,Net30
+CUST_0326,Rahul Industries,B2B,Ecommerce,North America,Annual,Net30
+CUST_0327,Aarav Logistics,B2C,Ecommerce,North America,Quarterly,Net60
+CUST_0328,Ishaan Solutions,B2C,Healthcare,APAC,Quarterly,Net30
+CUST_0329,Arjun Logistics,b2b,Ecommerce,North America,Annual,Net30
+CUST_0330,Krishna Industries,B2B,Automotive,Europe,Annual,Net30
+CUST_0331,Vivaan Global,B2C,Retail,North America,Annual,Net30
+CUST_0332,Reyansh Distributors,B2C,Retail,North America,Quarterly,Net60
+CUST_0333,Ishaan Corporation,B2B,Retail,Europe,Quarterly,Net60
+CUST_0334,Vivaan Distributors,b2b,Retail,North America,Quarterly,Net60
+CUST_0335,Vivaan Traders,b2b,Ecommerce,North America,Quarterly,Net60
+CUST_0336,Priya Enterprises,B2C,Ecommerce,APAC,Quarterly,Net30
+CUST_0337,Ishaan Corporation,b2b,Retail,Europe,Annual,Net60
+CUST_0338,Priya Distributors,b2b,Retail,Europe,Annual,Net60
+CUST_0339,Krishna Traders,b2b,Automotive,Europe,Quarterly,Net30
+CUST_0340,Amit Solutions,B2B,Healthcare,Europe,Annual,Net30
+CUST_0341,Krishna Supply,b2b,Retail,Europe,Annual,Net60
+CUST_0342,Atharv Logistics,B2B,Retail,North America,Annual,Net60
+CUST_0343,Ishaan Supply,b2b,Retail,Europe,Annual,Net60
+CUST_0344,Atharv Global,B2C,Healthcare,Europe,Quarterly,Net60
+CUST_0345,Pooja Retail,B2C,Automotive,North America,Quarterly,Net60
+CUST_0346,Krishna Traders,B2C,Ecommerce,APAC,Annual,Net30
+CUST_0347,Aarav Corporation,b2b,Ecommerce,Europe,Annual,Net30
+CUST_0348,Rohan Solutions,B2C,Retail,Europe,Quarterly,Net60
+CUST_0349,Sneha Retail,B2C,Retail,North America,Quarterly,Net30
+CUST_0350,Reyansh Distributors,B2C,Retail,North America,Annual,Net30
+CUST_0351,Aditya Logistics,B2B,Ecommerce,APAC,Annual,Net30
+CUST_0352,Reyansh Logistics,B2B,Ecommerce,Europe,Annual,Net60
+CUST_0353,Sneha Logistics,B2B,Ecommerce,APAC,Annual,Net60
+CUST_0354,Amit Corporation,B2B,Ecommerce,APAC,Annual,Net30
+CUST_0355,Pooja Enterprises,B2B,Retail,North America,Quarterly,Net60
+CUST_0356,Shaurya Global,B2B,Healthcare,Europe,Quarterly,Net30
+CUST_0357,Ishaan Corporation,b2b,Automotive,North America,Annual,Net30
+CUST_0358,Neha Global,B2C,Ecommerce,APAC,Annual,Net30
+CUST_0359,Aditya Retail,B2C,Healthcare,North America,Annual,Net30
+CUST_0360,Ishaan Solutions,b2b,Ecommerce,Europe,Annual,Net30
+CUST_0361,Shaurya Distributors,b2b,Automotive,APAC,Quarterly,Net30
+CUST_0362,Krishna Supply,B2B,Ecommerce,APAC,Quarterly,Net30
+CUST_0363,Karan Solutions,b2b,Ecommerce,North America,Quarterly,Net60
+CUST_0364,Reyansh Industries,b2b,Healthcare,APAC,Annual,Net60
+CUST_0365,Ishaan Industries,B2C,Ecommerce,Europe,Annual,Net60
+CUST_0366,Ananya Retail,B2B,Healthcare,North America,Quarterly,Net60
+CUST_0367,Vihaan Supply,b2b,Ecommerce,APAC,Quarterly,Net30
+CUST_0368,Aditya Industries,B2C,Retail,Europe,Annual,Net60
+CUST_0369,Rohan Traders,B2B,Automotive,APAC,Quarterly,Net60
+CUST_0370,Rahul Corporation,B2B,Retail,APAC,Annual,Net60
+CUST_0371,Ananya Distributors,b2b,Ecommerce,APAC,Annual,Net30
+CUST_0372,Rahul Distributors,B2B,Healthcare,Europe,Annual,Net60
+CUST_0373,Priya Global,B2B,Retail,North America,Annual,Net60
+CUST_0374,Vihaan Enterprises,B2C,Healthcare,Europe,Quarterly,Net30
+CUST_0375,Aditya Enterprises,B2C,Healthcare,Europe,Quarterly,Net60
+CUST_0376,Aditya Traders,B2C,Retail,North America,Quarterly,Net30
+CUST_0377,Ananya Industries,B2B,Healthcare,APAC,Quarterly,Net60
+CUST_0378,Vikas Global,B2C,Ecommerce,Europe,Quarterly,Net30
+CUST_0379,Atharv Traders,b2b,Retail,Europe,Quarterly,Net30
+CUST_0380,Neha Traders,B2C,Ecommerce,North America,Annual,Net60
+CUST_0381,Neha Corporation,B2C,Healthcare,APAC,Annual,Net30
+CUST_0382,Amit Logistics,b2b,Ecommerce,North America,Annual,Net60
+CUST_0383,Atharv Industries,B2C,Ecommerce,APAC,Quarterly,Net30
+CUST_0384,Shaurya Enterprises,b2b,Ecommerce,Europe,Annual,Net60
+CUST_0385,Vikas Retail,b2b,Ecommerce,North America,Quarterly,Net30
+CUST_0386,Rahul Distributors,b2b,Automotive,APAC,Annual,Net60
+CUST_0387,Vihaan Supply,B2B,Ecommerce,Europe,Quarterly,Net30
+CUST_0388,Aarav Industries,B2C,Retail,North America,Annual,Net60
+CUST_0389,Rahul Global,B2C,Retail,Europe,Annual,Net60
+CUST_0390,Arjun Corporation,B2C,Automotive,APAC,Annual,Net60
+CUST_0391,Atharv Traders,B2C,Retail,North America,Quarterly,Net60
+CUST_0392,Sneha Industries,B2C,Ecommerce,Europe,Annual,Net60
+CUST_0393,Vivaan Industries,B2B,Healthcare,North America,Annual,Net30
+CUST_0394,Ishaan Distributors,B2B,Retail,Europe,Quarterly,Net60
+CUST_0395,Ishaan Global,b2b,Retail,APAC,Quarterly,Net60
+CUST_0396,Aarav Supply,B2B,Ecommerce,North America,Quarterly,Net60
+CUST_0397,Aarav Solutions,B2B,Healthcare,North America,Annual,Net30
+CUST_0398,Amit Enterprises,B2C,Healthcare,APAC,Quarterly,Net30
+CUST_0399,Shaurya Retail,b2b,Healthcare,North America,Quarterly,Net60
+CUST_0400,Karan Industries,B2C,Healthcare,Europe,Annual,Net60
+CUST_0401,Vikas Supply,B2B,Retail,Europe,Annual,Net30
+CUST_0402,Atharv Industries,B2B,Healthcare,North America,Annual,Net60
+CUST_0403,Priya Supply,B2B,Ecommerce,Europe,Annual,Net60
+CUST_0404,Amit Enterprises,b2b,Retail,Europe,Quarterly,Net30
+CUST_0405,Vihaan Traders,B2C,Automotive,Europe,Annual,Net60
+CUST_0406,Reyansh Solutions,B2C,Ecommerce,Europe,Quarterly,Net60
+CUST_0407,Ananya Retail,B2B,Automotive,North America,Annual,Net30
+CUST_0408,Atharv Logistics,B2C,Retail,North America,Quarterly,Net30
+CUST_0409,Ananya Supply,b2b,Ecommerce,North America,Annual,Net30
+CUST_0410,Shaurya Distributors,B2C,Automotive,North America,Quarterly,Net30
+CUST_0411,Priya Industries,b2b,Retail,Europe,Annual,Net60
+CUST_0412,Shaurya Traders,B2B,Ecommerce,APAC,Annual,Net30
+CUST_0413,Karan Traders,b2b,Ecommerce,APAC,Annual,Net30
+CUST_0414,Krishna Logistics,b2b,Healthcare,North America,Quarterly,Net30
+CUST_0415,Rohan Corporation,B2C,Healthcare,North America,Annual,Net30
+CUST_0416,Priya Logistics,B2C,Retail,North America,Annual,Net30
+CUST_0417,Reyansh Traders,B2B,Ecommerce,Europe,Annual,Net60
+CUST_0418,Priya Global,B2C,Automotive,North America,Annual,Net60
+CUST_0419,Pooja Corporation,b2b,Healthcare,Europe,Quarterly,Net60
+CUST_0420,Karan Logistics,b2b,Automotive,North America,Quarterly,Net60
+CUST_0421,Aditya Distributors,B2C,Retail,Europe,Annual,Net60
+CUST_0422,Shaurya Traders,B2C,Healthcare,North America,Annual,Net60
+CUST_0423,Rohan Logistics,B2B,Automotive,North America,Quarterly,Net30
+CUST_0424,Arjun Enterprises,B2C,Ecommerce,APAC,Quarterly,Net30
+CUST_0425,Reyansh Corporation,B2B,Healthcare,APAC,Quarterly,Net60
+CUST_0426,Aditya Traders,b2b,Retail,APAC,Quarterly,Net60
+CUST_0427,Ishaan Global,b2b,Automotive,North America,Annual,Net30
+CUST_0428,Krishna Retail,B2B,Retail,North America,Annual,Net60
+CUST_0429,Aarav Logistics,b2b,Healthcare,APAC,Quarterly,Net30
+CUST_0430,Sneha Industries,B2B,Ecommerce,APAC,Annual,Net30
+CUST_0431,Rohan Traders,B2C,Retail,Europe,Annual,Net30
+CUST_0432,Aditya Distributors,b2b,Automotive,North America,Annual,Net60
+CUST_0433,Rahul Solutions,b2b,Retail,Europe,Quarterly,Net30
+CUST_0434,Aditya Industries,B2B,Automotive,North America,Quarterly,Net60
+CUST_0435,Priya Traders,B2B,Retail,Europe,Annual,Net30
+CUST_0436,Amit Supply,b2b,Healthcare,North America,Annual,Net60
+CUST_0437,Krishna Distributors,b2b,Retail,North America,Quarterly,Net60
+CUST_0438,Vivaan Solutions,B2C,Ecommerce,APAC,Annual,Net60
+CUST_0439,Vikas Industries,b2b,Automotive,Europe,Quarterly,Net30
+CUST_0440,Neha Supply,B2C,Healthcare,North America,Annual,Net60
+CUST_0441,Aditya Logistics,b2b,Automotive,APAC,Quarterly,Net30
+CUST_0442,Vivaan Logistics,B2C,Healthcare,North America,Quarterly,Net60
+CUST_0443,Neha Industries,b2b,Retail,Europe,Annual,Net60
+CUST_0444,Aditya Distributors,B2B,Retail,North America,Quarterly,Net60
+CUST_0445,Karan Industries,B2C,Ecommerce,North America,Annual,Net30
+CUST_0446,Ishaan Industries,B2C,Automotive,Europe,Annual,Net60
+CUST_0447,Vihaan Industries,B2B,Retail,North America,Annual,Net30
+CUST_0448,Sneha Traders,b2b,Healthcare,APAC,Quarterly,Net30
+CUST_0449,Shaurya Industries,B2B,Healthcare,Europe,Quarterly,Net30
+CUST_0450,Shaurya Supply,b2b,Automotive,Europe,Quarterly,Net60
+CUST_0451,Vivaan Retail,b2b,Retail,Europe,Annual,Net60
+CUST_0452,Arjun Supply,b2b,Automotive,APAC,Annual,Net30
+CUST_0453,Aarav Solutions,B2B,Ecommerce,Europe,Quarterly,Net30
+CUST_0454,Vihaan Logistics,b2b,Ecommerce,APAC,Quarterly,Net30
+CUST_0455,Priya Traders,B2C,Automotive,North America,Quarterly,Net30
+CUST_0456,Pooja Logistics,B2B,Retail,North America,Annual,Net60
+CUST_0457,Aditya Retail,B2C,Healthcare,Europe,Annual,Net60
+CUST_0458,Aarav Traders,B2B,Healthcare,North America,Quarterly,Net30
+CUST_0459,Ananya Traders,b2b,Ecommerce,APAC,Annual,Net30
+CUST_0460,Aarav Global,B2B,Retail,North America,Quarterly,Net30
+CUST_0461,Rohan Logistics,b2b,Ecommerce,North America,Quarterly,Net30
+CUST_0462,Krishna Distributors,B2B,Ecommerce,Europe,Annual,Net30
+CUST_0463,Shaurya Industries,B2B,Retail,North America,Quarterly,Net60
+CUST_0464,Ananya Industries,b2b,Automotive,North America,Annual,Net60
+CUST_0465,Aditya Supply,b2b,Automotive,Europe,Annual,Net30
+CUST_0466,Atharv Corporation,B2C,Ecommerce,North America,Quarterly,Net60
+CUST_0467,Ananya Corporation,B2B,Automotive,APAC,Annual,Net30
+CUST_0468,Reyansh Industries,B2B,Ecommerce,Europe,Quarterly,Net60
+CUST_0469,Arjun Distributors,B2C,Retail,Europe,Quarterly,Net60
+CUST_0470,Shaurya Industries,B2B,Retail,North America,Quarterly,Net30
+CUST_0471,Krishna Traders,B2B,Automotive,North America,Annual,Net60
+CUST_0472,Neha Distributors,B2B,Healthcare,Europe,Annual,Net30
+CUST_0473,Neha Retail,b2b,Retail,APAC,Quarterly,Net30
+CUST_0474,Reyansh Industries,B2B,Automotive,APAC,Annual,Net30
+CUST_0475,Neha Traders,b2b,Automotive,North America,Quarterly,Net30
+CUST_0476,Aarav Industries,B2B,Ecommerce,APAC,Annual,Net60
+CUST_0477,Arjun Logistics,B2C,Automotive,APAC,Quarterly,Net60
+CUST_0478,Sneha Logistics,B2C,Ecommerce,APAC,Quarterly,Net30
+CUST_0479,Vihaan Corporation,B2C,Ecommerce,APAC,Annual,Net30
+CUST_0480,Atharv Retail,B2C,Ecommerce,APAC,Annual,Net60
+CUST_0481,Neha Enterprises,B2C,Retail,North America,Annual,Net30
+CUST_0482,Neha Traders,B2C,Ecommerce,Europe,Quarterly,Net60
+CUST_0483,Shaurya Enterprises,B2B,Healthcare,North America,Annual,Net30
+CUST_0484,Shaurya Logistics,B2C,Healthcare,North America,Annual,Net30
+CUST_0485,Arjun Solutions,b2b,Retail,Europe,Annual,Net30
+CUST_0486,Karan Global,B2C,Retail,APAC,Annual,Net60
+CUST_0487,Rahul Supply,B2B,Healthcare,North America,Annual,Net30
+CUST_0488,Sneha Distributors,B2C,Retail,Europe,Annual,Net30
+CUST_0489,Vivaan Solutions,b2b,Retail,APAC,Quarterly,Net30
+CUST_0490,Rohan Supply,B2B,Retail,Europe,Annual,Net60
+CUST_0491,Vivaan Logistics,B2B,Retail,APAC,Quarterly,Net30
+CUST_0492,Rahul Global,b2b,Automotive,Europe,Quarterly,Net60
+CUST_0493,Reyansh Enterprises,b2b,Ecommerce,North America,Quarterly,Net60
+CUST_0494,Vihaan Distributors,b2b,Healthcare,APAC,Annual,Net60
+CUST_0495,Atharv Corporation,B2B,Retail,North America,Annual,Net60
+CUST_0496,Karan Logistics,B2B,Healthcare,North America,Annual,Net30
+CUST_0497,Sneha Enterprises,B2C,Automotive,APAC,Quarterly,Net60
+CUST_0498,Vihaan Industries,b2b,Healthcare,Europe,Annual,Net60
+CUST_0499,Krishna Solutions,b2b,Automotive,Europe,Quarterly,Net30
+CUST_0500,Aarav Logistics,B2C,Ecommerce,North America,Quarterly,Net30

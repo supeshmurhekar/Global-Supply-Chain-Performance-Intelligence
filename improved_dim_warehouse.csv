@@ -1,0 +1,16 @@
+Warehouse_ID,Warehouse_Name,Country,State,City,Warehouse_Type,Capacity,Manager_Name
+WH_01,Singapore Distribution Center,UAE,State_B,Singapore,Regional,121568,Vikram Singh
+WH_02,Delhi Distribution Center,UAE,State_C,Delhi,Central,71319,Vikram Singh
+WH_03,Delhi Distribution Center,India,State_B,Delhi,Central,91774,Neha Gupta
+WH_04,Delhi Distribution Center,India,State_B,Delhi,Central,99212,Amit Patel
+WH_05,Delhi Distribution Center,Singapore,State_A,Delhi,Regional,127860,Pooja Mehta
+WH_06,Munich Distribution Center,India,State_B,Munich,Central,129602,Vikram Singh
+WH_07,Bangalore Distribution Center,India,State_A,Bangalore,Regional,76941,Amit Patel
+WH_08,Singapore Distribution Center,Singapore,State_C,Singapore,Regional,136585,Neha Gupta
+WH_09,Berlin Distribution Center,Germany,State_A,Berlin,Central,101498,Pooja Mehta
+WH_10,Abu Dhabi Distribution Center,UAE,State_A,Abu Dhabi,Central,97294,Rajesh Sharma
+WH_11,Singapore Distribution Center,India,State_B,Singapore,Regional,76171,Rajesh Sharma
+WH_12,Mumbai Distribution Center,Germany,State_A,Mumbai,Regional,60739,Vikram Singh
+WH_13,Delhi Distribution Center,USA,State_B,Delhi,Regional,114106,Neha Gupta
+WH_14,Delhi Distribution Center,Singapore,State_B,Delhi,Central,98630,Vikram Singh
+WH_15,Chicago Distribution Center,Germany,State_B,Chicago,Central,84510,Vikram Singh
