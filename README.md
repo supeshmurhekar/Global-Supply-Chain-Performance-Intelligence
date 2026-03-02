@@ -139,7 +139,7 @@ The relational model was designed in MySQL to enable efficient analytics and joi
 
 ### Financial & Supply Chain Health Dashboard
 
-![Financial Dashboard](images/financial_dashboard.png)
+![Financial Dashboard](Financial_&_Supply_Chain_Health.png)
 
 ---
 
