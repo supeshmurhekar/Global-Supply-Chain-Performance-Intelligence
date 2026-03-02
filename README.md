@@ -90,7 +90,7 @@ The project follows a structured data pipeline from raw data to insights.
 
 ### 🔄 Pipeline Flow
 
-![Data Pipeline](images/data_pipeline.png)
+![Data Pipeline](Pipeline.png)
 
 **Pipeline Steps:**
 
@@ -129,7 +129,7 @@ The relational model was designed in MySQL to enable efficient analytics and joi
 
 ### 🗂️ Model Diagram
 
-![Data Model](images/data_model.png)
+![Data Model](images/data_model.pn)
 
 **Core Tables:**
 
