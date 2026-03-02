@@ -27,8 +27,8 @@ Operationally, the average transit time is 6.02 days and transport cost is $5.5/
 - [Key Insights](#9-key-insights)  
 - [Data Model View](#10-data-model-view)  
 - [Project Visualizations](#11-project-visualizations)  
-- [How to Run This Project](#12-how-to-run-this-project)  
-- [Project Structure](#13-project-structure)  
+- [How to Run This Project](#12-how-to-run-this-project)
+- [Business Recommendations](#13-business-recommendations)
 - [Results and Conclusion](#14-results-and-conclusion)  
 - [Author and Contact](#author-and-contact)
 
@@ -129,17 +129,7 @@ The relational model was designed in MySQL to enable efficient analytics and joi
 
 ### 🗂️ Model Diagram
 
-![Data Model](images/data_model.pn)
-
-**Core Tables:**
-
-- Fact_Shipments  
-- Dim_Supplier  
-- Dim_Customer  
-- Dim_Warehouse  
-- Dim_Transport  
-
----
+![Data Model](model_diagram.png)
 
 ## 11) Project Visualizations
 
@@ -171,22 +161,26 @@ jupyter notebook
 
 ---
 
-## 13) Project Structure
-
-```bash
-supply-chain-analytics/
-├── data/
-├── notebooks/
-├── sql/
-├── images/
-│   ├── data_pipeline.png
-│   ├── data_model.png
-│   ├── logistics_dashboard.png
-│   └── financial_dashboard.png
-├── powerbi/
-├── README.md
-└── requirements.txt
-```
+## 13) Business Recommendations
+1. Improve OTIF Performance 
+Current OTIF is below the desired benchmark. Implement weekly tracking, investigate delay root 
+causes (transport inefficiencies, warehouse dispatch), and target 90%+ OTIF to improve service 
+reliability. 
+2. Optimize Transport Mode Usage 
+Since delay risk is similar across modes, focus on route-level optimization and carrier performance 
+review. Use air/road selectively for urgent shipments and prioritize sea/rail for cost efficiency. 
+3. Address Slow Logistics Lanes 
+High transit times in specific origin destination lanes require network redesign, alternate routing, 
+or carrier renegotiation. Continuously monitor lane KPIs to reduce variability. 
+4. Strengthen Supplier Lead-Time Control 
+Lead-time variability impacts planning. Develop a supplier scorecard, review underperforming 
+vendors, and consider contract renegotiation or secondary sourcing for risk mitigation. 
+5. Diversify Revenue Mix 
+B2B drives the majority of revenue. Continue strengthening B2B while expanding B2C 
+opportunities to reduce dependency risk and improve revenue quality. 
+6. Balance Warehouse Utilization 
+Uneven warehouse loads indicate capacity risk. Optimize inventory allocation and capacity 
+planning, and closely monitor high-load facilities during peak periods. 
 
 ---
 
