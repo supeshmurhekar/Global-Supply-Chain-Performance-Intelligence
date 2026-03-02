@@ -135,7 +135,7 @@ The relational model was designed in MySQL to enable efficient analytics and joi
 
 ### Logistics & Service Performance Dashboard
 
-![Logistics Dashboard](images/logistics_dashboard.png)
+![Logistics Dashboard](Logistics_&_Service_Performance.png)
 
 ### Financial & Supply Chain Health Dashboard
 
