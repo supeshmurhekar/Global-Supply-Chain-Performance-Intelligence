@@ -188,7 +188,7 @@ planning, and closely monitor high-load facilities during peak periods.
 
 The project successfully built a scalable supply chain analytics framework providing clear visibility into delivery performance, logistics costs, supplier reliability, and profitability.
 
-The dashboards highlight critical improvement areas — particularly OTIF performance and supplier consistency — while confirming strong financial health. This solution demonstrates how structured analytics can enable **proactive, data-driven supply chain optimization**.
+The dashboards highlight critical improvement areas  particularly OTIF performance and supplier consistency  while confirming strong financial health. This solution demonstrates how structured analytics can enable **proactive, data-driven supply chain optimization**.
 
 ---
 
